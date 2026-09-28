@@ -21,7 +21,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "amsterdams-beroepscollege-noorderlicht": {
    "address": "Rode Kruisstraat 14",
@@ -44,7 +45,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "barlaeus-gymnasium": {
    "address": "Weteringschans 29-31",
@@ -59,7 +61,14 @@
     {
      "label": "DUO exam results",
      "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "DUO school registry",
+     "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
     }
+   ],
+   "programmes": [
+    "Gymnasium"
    ]
   },
   "berlage-lyceum": {
@@ -83,7 +92,20 @@
     {
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    },
+    {
+     "label": "DUO school registry",
+     "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
+    },
+    {
+     "label": "Nuffic TTO list",
+     "url": "https://www.nuffic.nl/onderwijssectoren/voortgezet-onderwijs/tweetalig-onderwijs/alle-tto-scholen-in-nederland"
     }
+   ],
+   "programmes": [
+    "Gymnasium",
+    "Bilingual (TTO)",
+    "International Baccalaureate (IB)"
    ]
   },
   "bindelmeer-college": {
@@ -107,7 +129,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "bredero": {
    "address": "Gare du Nord 5",
@@ -130,7 +153,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "calandlyceum": {
    "address": "Pieter Calandlaan 182",
@@ -155,7 +179,21 @@
     {
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    },
+    {
+     "label": "DUO school registry",
+     "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
+    },
+    {
+     "label": "Technasium network",
+     "url": "https://www.technasium.nl/netwerk/amsterdam/"
     }
+   ],
+   "programmes": [
+    "Gymnasium",
+    "Technasium",
+    "Topsport Talentschool",
+    "Dalton"
    ]
   },
   "calvijn-college": {
@@ -177,7 +215,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "casparus-college": {
    "address": "Talmastraat 40, Weesp",
@@ -199,7 +238,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "cburg-college": {
    "address": "Foekje Dillemastraat 116",
@@ -215,7 +255,8 @@
      "label": "DUO exam results",
      "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
     }
-   ]
+   ],
+   "programmes": []
   },
   "cheider-vo": {
    "address": "Zeelandstraat 11",
@@ -231,7 +272,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "college-de-meer": {
    "address": "Radioweg 56",
@@ -240,7 +282,8 @@
    "pros": [],
    "cons": [],
    "facts": [],
-   "extra_sources": []
+   "extra_sources": [],
+   "programmes": []
   },
   "college-zuyd": {
    "address": "Karel du Jardinstraat 54",
@@ -249,7 +292,8 @@
    "pros": [],
    "cons": [],
    "facts": [],
-   "extra_sources": []
+   "extra_sources": [],
+   "programmes": []
   },
   "comenius-lyceum-amsterdam": {
    "address": "Jacob Geelstraat 38",
@@ -274,6 +318,9 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
+   ],
+   "programmes": [
+    "Cambridge English"
    ]
   },
   "cornelius-haga-lyceum": {
@@ -299,7 +346,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "csb": {
    "address": "De Cuserstraat 3",
@@ -322,7 +370,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "cygnus-gymnasium": {
    "address": "Vrolikstraat 8",
@@ -337,7 +386,14 @@
     {
      "label": "DUO exam results",
      "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "DUO school registry",
+     "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
     }
+   ],
+   "programmes": [
+    "Gymnasium"
    ]
   },
   "damstede-lyceum": {
@@ -360,7 +416,19 @@
     {
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    },
+    {
+     "label": "DUO school registry",
+     "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
+    },
+    {
+     "label": "Technasium network",
+     "url": "https://www.technasium.nl/netwerk/amsterdam/"
     }
+   ],
+   "programmes": [
+    "Gymnasium",
+    "Technasium"
    ]
   },
   "de-amsterdamse-mavo": {
@@ -377,7 +445,8 @@
      "label": "DUO exam results",
      "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
     }
-   ]
+   ],
+   "programmes": []
   },
   "de-apollo": {
    "address": "Oudaen 6, Buitenveldert",
@@ -400,7 +469,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "denise": {
    "address": "Piet Mondriaanstraat 140",
@@ -424,7 +494,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "fiducie-college": {
    "address": "Derkinderenstraat 44",
@@ -441,7 +512,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "fons-vitae-lyceum": {
    "address": "Reijnier Vinkeleskade 53",
@@ -462,7 +534,14 @@
     {
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    },
+    {
+     "label": "DUO school registry",
+     "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
     }
+   ],
+   "programmes": [
+    "Gymnasium"
    ]
   },
   "futuris": {
@@ -486,7 +565,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "geert-groote-college-amsterdam": {
    "address": "Fred. Roeskestraat 84",
@@ -511,7 +591,14 @@
     {
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    },
+    {
+     "label": "DUO school registry",
+     "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
     }
+   ],
+   "programmes": [
+    "Vrije school (Steiner)"
    ]
   },
   "gerrit-van-der-veen-college": {
@@ -528,7 +615,14 @@
     {
      "label": "DUO exam results",
      "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "DUO school registry",
+     "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
     }
+   ],
+   "programmes": [
+    "Dance & music (DaMu)"
    ]
   },
   "havo-de-hof": {
@@ -551,7 +645,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "hervormd-lyceum-west": {
    "address": "Hemsterhuisstraat 79",
@@ -575,7 +670,19 @@
     {
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    },
+    {
+     "label": "DUO school registry",
+     "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
+    },
+    {
+     "label": "Nuffic TTO list",
+     "url": "https://www.nuffic.nl/onderwijssectoren/voortgezet-onderwijs/tweetalig-onderwijs/alle-tto-scholen-in-nederland"
     }
+   ],
+   "programmes": [
+    "Gymnasium",
+    "Bilingual (TTO)"
    ]
   },
   "het-4e-gymnasium": {
@@ -591,7 +698,14 @@
     {
      "label": "DUO exam results",
      "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "DUO school registry",
+     "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
     }
+   ],
+   "programmes": [
+    "Gymnasium"
    ]
   },
   "het-amsterdams-lyceum": {
@@ -607,7 +721,14 @@
     {
      "label": "DUO exam results",
      "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "DUO school registry",
+     "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
     }
+   ],
+   "programmes": [
+    "Gymnasium"
    ]
   },
   "het-cartesius": {
@@ -630,7 +751,14 @@
     {
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    },
+    {
+     "label": "DUO school registry",
+     "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
     }
+   ],
+   "programmes": [
+    "Gymnasium"
    ]
   },
   "hlz": {
@@ -648,7 +776,8 @@
      "label": "DUO exam results",
      "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
     }
-   ]
+   ],
+   "programmes": []
   },
   "hubertus-berkhoff": {
    "address": "Betuwestraat 29",
@@ -663,7 +792,14 @@
     {
      "label": "DUO exam results",
      "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Nuffic TTO list",
+     "url": "https://www.nuffic.nl/onderwijssectoren/voortgezet-onderwijs/tweetalig-onderwijs/alle-tto-scholen-in-nederland"
     }
+   ],
+   "programmes": [
+    "Bilingual (TTO)"
    ]
   },
   "huygens-college": {
@@ -686,7 +822,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "hyperion-lyceum": {
    "address": "Badhuiskade 361",
@@ -701,7 +838,14 @@
     {
      "label": "DUO exam results",
      "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "DUO school registry",
+     "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
     }
+   ],
+   "programmes": [
+    "Gymnasium"
    ]
   },
   "iedersland-college": {
@@ -725,7 +869,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "ir-lely-lyceum": {
    "address": "Ravenswaaipad 3",
@@ -749,7 +894,21 @@
     {
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    },
+    {
+     "label": "Nuffic TTO list",
+     "url": "https://www.nuffic.nl/onderwijssectoren/voortgezet-onderwijs/tweetalig-onderwijs/alle-tto-scholen-in-nederland"
+    },
+    {
+     "label": "Technasium network",
+     "url": "https://www.technasium.nl/netwerk/amsterdam/"
     }
+   ],
+   "programmes": [
+    "Gymnasium",
+    "Bilingual (TTO)",
+    "Technasium",
+    "Cambridge English"
    ]
   },
   "ivko": {
@@ -767,7 +926,14 @@
     {
      "label": "DUO exam results",
      "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "DUO school registry",
+     "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
     }
+   ],
+   "programmes": [
+    "Montessori"
    ]
   },
   "joodse-scholengemeenschap-maimonides": {
@@ -784,7 +950,8 @@
      "label": "DUO exam results",
      "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
     }
-   ]
+   ],
+   "programmes": []
   },
   "jordaan-college": {
    "address": "Konijnenstraat 7",
@@ -800,7 +967,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "kairos-tienercollege": {
    "address": "Meeuwenlaan 136",
@@ -809,7 +977,15 @@
    "pros": [],
    "cons": [],
    "facts": [],
-   "extra_sources": []
+   "extra_sources": [
+    {
+     "label": "DUO school registry",
+     "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
+    }
+   ],
+   "programmes": [
+    "Vrije school (Steiner)"
+   ]
   },
   "kentalis-signis-vso-cmb": {
    "address": "Herman de Manstraat 1",
@@ -818,7 +994,8 @@
    "pros": [],
    "cons": [],
    "facts": [],
-   "extra_sources": []
+   "extra_sources": [],
+   "programmes": []
   },
   "kiem-montessori": {
    "address": "Tweede Oosterparkstraat 33",
@@ -833,7 +1010,14 @@
     {
      "label": "DUO exam results",
      "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "DUO school registry",
+     "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
     }
+   ],
+   "programmes": [
+    "Montessori"
    ]
   },
   "kolom-praktijkcollege-de-atlant": {
@@ -843,7 +1027,8 @@
    "pros": [],
    "cons": [],
    "facts": [],
-   "extra_sources": []
+   "extra_sources": [],
+   "programmes": []
   },
   "kolom-praktijkcollege-de-dreef": {
    "address": "Alexander Dumaslaan 7",
@@ -859,7 +1044,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "kolom-praktijkcollege-het-plein": {
    "address": "Jan de Louterpad 5",
@@ -868,7 +1054,8 @@
    "pros": [],
    "cons": [],
    "facts": [],
-   "extra_sources": []
+   "extra_sources": [],
+   "programmes": []
   },
   "kolom-praktijkcollege-noord": {
    "address": "Oostzanerdijk 139",
@@ -877,7 +1064,8 @@
    "pros": [],
    "cons": [],
    "facts": [],
-   "extra_sources": []
+   "extra_sources": [],
+   "programmes": []
   },
   "kolom-vso-alphons-laudy": {
    "address": "Van Nijenrodeweg 648",
@@ -893,7 +1081,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "kolom-vso-de-heldring": {
    "address": "Burgemeester Eliasstraat 20",
@@ -909,7 +1098,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "luca-praktijkschool": {
    "address": "Javaplantsoen 24",
@@ -918,7 +1108,8 @@
    "pros": [],
    "cons": [],
    "facts": [],
-   "extra_sources": []
+   "extra_sources": [],
+   "programmes": []
   },
   "lumion": {
    "address": "Vlaardingenlaan 25",
@@ -944,7 +1135,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "marcanti-college": {
    "address": "Jan van Galenstraat 31",
@@ -968,7 +1160,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "mediacollege-amsterdam": {
    "address": "Dintelstraat 15",
@@ -989,7 +1182,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "meiberg-college": {
    "address": "Tafelbergweg 23",
@@ -1005,7 +1199,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "metis-montessori-lyceum": {
    "address": "Mauritskade 58",
@@ -1021,7 +1216,19 @@
     {
      "label": "DUO exam results",
      "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "DUO school registry",
+     "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
+    },
+    {
+     "label": "Technasium network",
+     "url": "https://www.technasium.nl/netwerk/amsterdam/"
     }
+   ],
+   "programmes": [
+    "Technasium",
+    "Montessori"
    ]
   },
   "metropolis-lyceum": {
@@ -1044,6 +1251,9 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
+   ],
+   "programmes": [
+    "Dalton"
    ]
   },
   "montessori-lyceum-amsterdam-mla": {
@@ -1062,7 +1272,15 @@
     {
      "label": "DUO exam results",
      "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "DUO school registry",
+     "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
     }
+   ],
+   "programmes": [
+    "Gymnasium",
+    "Montessori"
    ]
   },
   "montessori-lyceum-oostpoort": {
@@ -1086,7 +1304,14 @@
     {
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    },
+    {
+     "label": "DUO school registry",
+     "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
     }
+   ],
+   "programmes": [
+    "Montessori"
    ]
   },
   "montessori-lyceum-pax": {
@@ -1102,7 +1327,15 @@
     {
      "label": "DUO exam results",
      "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "DUO school registry",
+     "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
     }
+   ],
+   "programmes": [
+    "Gymnasium",
+    "Montessori"
    ]
   },
   "montessori-lyceum-terra-nova": {
@@ -1112,7 +1345,10 @@
    "pros": [],
    "cons": [],
    "facts": [],
-   "extra_sources": []
+   "extra_sources": [],
+   "programmes": [
+    "Montessori"
+   ]
   },
   "mundus-college": {
    "address": "Burgemeester Hogguerstraat 2",
@@ -1133,7 +1369,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "orion-college-amstel": {
    "address": "Wibautstraat 220-222",
@@ -1149,7 +1386,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "orion-college-drostenburg": {
    "address": "Drostenburg 5B",
@@ -1165,7 +1403,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "orion-college-noord": {
    "address": "Beijerlandstraat 2",
@@ -1181,7 +1420,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "orion-college-zuidoost": {
    "address": "Bijlmerdreef 1289-2",
@@ -1197,7 +1437,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "osb-amsterdam": {
    "address": "Gulden Kruis 5",
@@ -1221,6 +1462,9 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
+   ],
+   "programmes": [
+    "Cambridge English"
    ]
   },
   "over-y-college": {
@@ -1242,7 +1486,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "pieter-nieuwland-college": {
    "address": "Nobelweg 6",
@@ -1260,6 +1505,9 @@
      "label": "DUO exam results",
      "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
     }
+   ],
+   "programmes": [
+    "Gymnasium (from 2027)"
    ]
   },
   "spinoza-lyceum": {
@@ -1278,7 +1526,16 @@
     {
      "label": "DUO exam results",
      "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "DUO school registry",
+     "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
     }
+   ],
+   "programmes": [
+    "Gymnasium",
+    "Cambridge English",
+    "Dalton"
    ]
   },
   "spinoza20first": {
@@ -1301,7 +1558,14 @@
     {
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    },
+    {
+     "label": "DUO school registry",
+     "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
     }
+   ],
+   "programmes": [
+    "Dalton"
    ]
   },
   "spring-high": {
@@ -1313,7 +1577,8 @@
    "facts": [
     "No exam or inspection record of its own yet (new or special school)"
    ],
-   "extra_sources": []
+   "extra_sources": [],
+   "programmes": []
   },
   "st-ignatiusgymnasium": {
    "address": "Jan van Eijckstraat 47",
@@ -1328,7 +1593,14 @@
     {
      "label": "DUO exam results",
      "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "DUO school registry",
+     "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
     }
+   ],
+   "programmes": [
+    "Gymnasium"
    ]
   },
   "st-nicolaaslyceum": {
@@ -1345,7 +1617,19 @@
     {
      "label": "DUO exam results",
      "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "DUO school registry",
+     "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
+    },
+    {
+     "label": "Nuffic TTO list",
+     "url": "https://www.nuffic.nl/onderwijssectoren/voortgezet-onderwijs/tweetalig-onderwijs/alle-tto-scholen-in-nederland"
     }
+   ],
+   "programmes": [
+    "Gymnasium",
+    "Bilingual (TTO)"
    ]
   },
   "tasc-tech-amsterdam-scholen-collectief": {
@@ -1367,7 +1651,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "tobiasschool": {
    "address": "Rietwijkerstraat 55",
@@ -1388,6 +1673,9 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
+   ],
+   "programmes": [
+    "Vrije school (Steiner)"
    ]
   },
   "vechtstede-college": {
@@ -1411,7 +1699,18 @@
     {
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    },
+    {
+     "label": "DUO school registry",
+     "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
+    },
+    {
+     "label": "Nuffic TTO list",
+     "url": "https://www.nuffic.nl/onderwijssectoren/voortgezet-onderwijs/tweetalig-onderwijs/alle-tto-scholen-in-nederland"
     }
+   ],
+   "programmes": [
+    "Bilingual (TTO)"
    ]
   },
   "viertaal-college-amsterdam": {
@@ -1421,7 +1720,8 @@
    "pros": [],
    "cons": [],
    "facts": [],
-   "extra_sources": []
+   "extra_sources": [],
+   "programmes": []
   },
   "vinse-school": {
    "address": "Haarlemmerstraat 132-136",
@@ -1439,7 +1739,8 @@
      "label": "DUO exam results",
      "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
     }
-   ]
+   ],
+   "programmes": []
   },
   "visio-onderwijs-amsterdam": {
    "address": "Burgermeester Eliasstraat 76",
@@ -1455,7 +1756,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "vonk": {
    "address": "Rode Kruisstraat 40",
@@ -1471,7 +1773,8 @@
      "label": "DUO exam results",
      "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
     }
-   ]
+   ],
+   "programmes": []
   },
   "vossius-gymnasium": {
    "address": "Messchaertstraat 1",
@@ -1486,7 +1789,14 @@
     {
      "label": "DUO exam results",
      "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "DUO school registry",
+     "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
     }
+   ],
+   "programmes": [
+    "Gymnasium"
    ]
   },
   "xplore-agora-amsterdam": {
@@ -1498,7 +1808,10 @@
    "facts": [
     "No exam or inspection record of its own yet (new or special school)"
    ],
-   "extra_sources": []
+   "extra_sources": [],
+   "programmes": [
+    "Agora"
+   ]
   },
   "yuverta-vmbo-amsterdam-west": {
    "address": "Jan van Zutphenstraat 60",
@@ -1520,7 +1833,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   },
   "yuverta-vmbo-pro-amsterdam-oost": {
    "address": "Archimedesplantsoen 87",
@@ -1544,7 +1858,8 @@
      "label": "Inspectie ratings (Sept 2026)",
      "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
     }
-   ]
+   ],
+   "programmes": []
   }
  },
  "skip": {
