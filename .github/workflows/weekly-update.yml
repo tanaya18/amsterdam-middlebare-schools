@@ -1,1 +1,52 @@
+# Every Monday morning: re-check all school pages, rebuild school-map/schools.js and publish the site.
+# Also publishes whenever you upload changes yourself.
+name: Weekly date update
 
+on:
+  schedule:
+    - cron: "0 5 * * 1"   # Mondays 05:00 UTC (06:00/07:00 in Amsterdam)
+  workflow_dispatch:       # adds a "Run workflow" button for running it by hand
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update-and-publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rebuild schools.js from schoolkeuze020.nl
+        run: python3 update.py
+
+      - name: Check the new data
+        run: |
+          pip install pytest
+          pytest -q
+
+      - name: Save the changes
+        run: |
+          git config user.name "weekly-update-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add school-map/schools.js
+          git commit -m "Weekly date update $(date +%F)" || echo "Nothing changed"
+          git push
+
+      - name: Publish the school-map folder
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: school-map
+
+      - id: deploy
+        uses: actions/deploy-pages@v4
