@@ -16,6 +16,7 @@ window.SCHOOLS = [
    "HAVO",
    "VWO"
   ],
+  "programmes": [],
   "pupils": 745,
   "lesson_length": "150 min",
   "start_time": "9:00",
@@ -77,6 +78,7 @@ window.SCHOOLS = [
   "groups": [
    "VMBO"
   ],
+  "programmes": [],
   "pupils": 420,
   "lesson_length": "60 min",
   "start_time": "8:45",
@@ -147,6 +149,9 @@ window.SCHOOLS = [
   "groups": [
    "VWO"
   ],
+  "programmes": [
+   "Gymnasium"
+  ],
   "pupils": 804,
   "lesson_length": "50 min",
   "start_time": "8:30",
@@ -192,6 +197,10 @@ window.SCHOOLS = [
    {
     "label": "DUO exam results",
     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+   },
+   {
+    "label": "DUO school registry",
+    "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
    }
   ]
  },
@@ -210,6 +219,11 @@ window.SCHOOLS = [
    "HAVO",
    "VMBO",
    "VWO"
+  ],
+  "programmes": [
+   "Gymnasium",
+   "Bilingual (TTO)",
+   "International Baccalaureate (IB)"
   ],
   "pupils": 1175,
   "lesson_length": "45 min",
@@ -259,6 +273,14 @@ window.SCHOOLS = [
    {
     "label": "Inspectie ratings (Sept 2026)",
     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+   },
+   {
+    "label": "DUO school registry",
+    "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
+   },
+   {
+    "label": "Nuffic TTO list",
+    "url": "https://www.nuffic.nl/onderwijssectoren/voortgezet-onderwijs/tweetalig-onderwijs/alle-tto-scholen-in-nederland"
    }
   ]
  },
@@ -280,6 +302,7 @@ window.SCHOOLS = [
    "HAVO",
    "VMBO"
   ],
+  "programmes": [],
   "pupils": 380,
   "lesson_length": "50 min",
   "start_time": "8:50",
@@ -350,6 +373,7 @@ window.SCHOOLS = [
    "HAVO",
    "VMBO"
   ],
+  "programmes": [],
   "pupils": 450,
   "lesson_length": "50 min",
   "start_time": "8:30",
@@ -436,6 +460,12 @@ window.SCHOOLS = [
    "VMBO",
    "VWO"
   ],
+  "programmes": [
+   "Gymnasium",
+   "Technasium",
+   "Topsport Talentschool",
+   "Dalton"
+  ],
   "pupils": 1125,
   "lesson_length": "45 min",
   "start_time": "8:45",
@@ -488,6 +518,14 @@ window.SCHOOLS = [
    {
     "label": "Inspectie ratings (Sept 2026)",
     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+   },
+   {
+    "label": "DUO school registry",
+    "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
+   },
+   {
+    "label": "Technasium network",
+    "url": "https://www.technasium.nl/netwerk/amsterdam/"
    }
   ]
  },
@@ -505,6 +543,7 @@ window.SCHOOLS = [
   "groups": [
    "VMBO"
   ],
+  "programmes": [],
   "pupils": 550,
   "lesson_length": "50 min",
   "start_time": "8:30",
@@ -579,6 +618,7 @@ window.SCHOOLS = [
   "groups": [
    "VMBO"
   ],
+  "programmes": [],
   "pupils": 330,
   "lesson_length": "45 min",
   "start_time": "8:30",
@@ -643,6 +683,7 @@ window.SCHOOLS = [
   "groups": [
    "VMBO"
   ],
+  "programmes": [],
   "pupils": 340,
   "lesson_length": "50 min",
   "start_time": "8:30",
@@ -718,6 +759,7 @@ window.SCHOOLS = [
    "VMBO",
    "VWO"
   ],
+  "programmes": [],
   "pupils": 33,
   "lesson_length": "40 min",
   "start_time": "9:00",
@@ -764,6 +806,7 @@ window.SCHOOLS = [
   "groups": [
    "VMBO"
   ],
+  "programmes": [],
   "pupils": 440,
   "lesson_length": "45 min",
   "start_time": "8:30",
@@ -832,6 +875,7 @@ window.SCHOOLS = [
   "groups": [
    "VMBO"
   ],
+  "programmes": [],
   "pupils": 430,
   "lesson_length": "50 min",
   "start_time": "8:30",
@@ -904,6 +948,9 @@ window.SCHOOLS = [
    "VMBO",
    "VWO"
   ],
+  "programmes": [
+   "Cambridge English"
+  ],
   "pupils": 1044,
   "lesson_length": "50 min",
   "start_time": "8:45",
@@ -972,6 +1019,7 @@ window.SCHOOLS = [
    "VMBO",
    "VWO"
   ],
+  "programmes": [],
   "pupils": 490,
   "lesson_length": "50 min",
   "start_time": "8:30",
@@ -1040,6 +1088,7 @@ window.SCHOOLS = [
    "VMBO",
    "VWO"
   ],
+  "programmes": [],
   "pupils": 950,
   "lesson_length": "50 or 100 min",
   "start_time": "8:30",
@@ -1120,6 +1169,9 @@ window.SCHOOLS = [
   "groups": [
    "VWO"
   ],
+  "programmes": [
+   "Gymnasium"
+  ],
   "pupils": 810,
   "lesson_length": "50 min",
   "start_time": "8:25",
@@ -1172,6 +1224,10 @@ window.SCHOOLS = [
    {
     "label": "DUO exam results",
     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+   },
+   {
+    "label": "DUO school registry",
+    "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
    }
   ]
  },
@@ -1188,6 +1244,10 @@ window.SCHOOLS = [
   "groups": [
    "HAVO",
    "VWO"
+  ],
+  "programmes": [
+   "Gymnasium",
+   "Technasium"
   ],
   "pupils": 620,
   "lesson_length": "50 min",
@@ -1251,6 +1311,14 @@ window.SCHOOLS = [
    {
     "label": "Inspectie ratings (Sept 2026)",
     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+   },
+   {
+    "label": "DUO school registry",
+    "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
+   },
+   {
+    "label": "Technasium network",
+    "url": "https://www.technasium.nl/netwerk/amsterdam/"
    }
   ]
  },
@@ -1266,6 +1334,7 @@ window.SCHOOLS = [
   "groups": [
    "VMBO"
   ],
+  "programmes": [],
   "pupils": 276,
   "lesson_length": "90 min",
   "start_time": "8:30",
@@ -1326,6 +1395,7 @@ window.SCHOOLS = [
    "HAVO",
    "VMBO"
   ],
+  "programmes": [],
   "pupils": 310,
   "lesson_length": "50 min",
   "start_time": "8:30",
@@ -1387,6 +1457,7 @@ window.SCHOOLS = [
    "VMBO",
    "VWO"
   ],
+  "programmes": [],
   "pupils": 650,
   "lesson_length": "50 min",
   "start_time": "8:30",
@@ -1459,6 +1530,7 @@ window.SCHOOLS = [
    "VMBO",
    "VWO"
   ],
+  "programmes": [],
   "pupils": 180,
   "lesson_length": "50 min",
   "start_time": "8:30",
@@ -1505,6 +1577,9 @@ window.SCHOOLS = [
   "groups": [
    "HAVO",
    "VWO"
+  ],
+  "programmes": [
+   "Gymnasium"
   ],
   "pupils": 1060,
   "lesson_length": "60 min",
@@ -1554,6 +1629,10 @@ window.SCHOOLS = [
    {
     "label": "Inspectie ratings (Sept 2026)",
     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+   },
+   {
+    "label": "DUO school registry",
+    "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
    }
   ]
  },
@@ -1572,6 +1651,7 @@ window.SCHOOLS = [
   "groups": [
    "VMBO"
   ],
+  "programmes": [],
   "pupils": 580,
   "lesson_length": "50 min",
   "start_time": "8:30",
@@ -1627,6 +1707,9 @@ window.SCHOOLS = [
    "VMBO",
    "VWO"
   ],
+  "programmes": [
+   "Vrije school (Steiner)"
+  ],
   "pupils": 910,
   "lesson_length": "50 min",
   "start_time": "8:30",
@@ -1677,6 +1760,10 @@ window.SCHOOLS = [
    {
     "label": "Inspectie ratings (Sept 2026)",
     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+   },
+   {
+    "label": "DUO school registry",
+    "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
    }
   ]
  },
@@ -1693,6 +1780,9 @@ window.SCHOOLS = [
   "groups": [
    "HAVO",
    "VWO"
+  ],
+  "programmes": [
+   "Dance & music (DaMu)"
   ],
   "pupils": 950,
   "lesson_length": "50 min",
@@ -1735,6 +1825,10 @@ window.SCHOOLS = [
    {
     "label": "DUO exam results",
     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+   },
+   {
+    "label": "DUO school registry",
+    "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
    }
   ]
  },
@@ -1750,6 +1844,7 @@ window.SCHOOLS = [
   "groups": [
    "HAVO"
   ],
+  "programmes": [],
   "pupils": 400,
   "lesson_length": "50 min",
   "start_time": "8:30",
@@ -1842,6 +1937,10 @@ window.SCHOOLS = [
    "VMBO",
    "VWO"
   ],
+  "programmes": [
+   "Gymnasium",
+   "Bilingual (TTO)"
+  ],
   "pupils": 900,
   "lesson_length": "60 min",
   "start_time": "8:30",
@@ -1917,6 +2016,14 @@ window.SCHOOLS = [
    {
     "label": "Inspectie ratings (Sept 2026)",
     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+   },
+   {
+    "label": "DUO school registry",
+    "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
+   },
+   {
+    "label": "Nuffic TTO list",
+    "url": "https://www.nuffic.nl/onderwijssectoren/voortgezet-onderwijs/tweetalig-onderwijs/alle-tto-scholen-in-nederland"
    }
   ]
  },
@@ -1931,6 +2038,9 @@ window.SCHOOLS = [
   ],
   "groups": [
    "VWO"
+  ],
+  "programmes": [
+   "Gymnasium"
   ],
   "pupils": 840,
   "lesson_length": "50 min",
@@ -1980,6 +2090,10 @@ window.SCHOOLS = [
    {
     "label": "DUO exam results",
     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+   },
+   {
+    "label": "DUO school registry",
+    "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
    }
   ]
  },
@@ -1994,6 +2108,9 @@ window.SCHOOLS = [
   ],
   "groups": [
    "VWO"
+  ],
+  "programmes": [
+   "Gymnasium"
   ],
   "pupils": 1090,
   "lesson_length": "50 min",
@@ -2024,6 +2141,10 @@ window.SCHOOLS = [
    {
     "label": "DUO exam results",
     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+   },
+   {
+    "label": "DUO school registry",
+    "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
    }
   ]
  },
@@ -2040,6 +2161,9 @@ window.SCHOOLS = [
   "groups": [
    "HAVO",
    "VWO"
+  ],
+  "programmes": [
+   "Gymnasium"
   ],
   "pupils": 750,
   "lesson_length": "90 min",
@@ -2102,6 +2226,10 @@ window.SCHOOLS = [
    {
     "label": "Inspectie ratings (Sept 2026)",
     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+   },
+   {
+    "label": "DUO school registry",
+    "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
    }
   ]
  },
@@ -2119,6 +2247,7 @@ window.SCHOOLS = [
    "HAVO",
    "VWO"
   ],
+  "programmes": [],
   "pupils": 960,
   "lesson_length": "45 min",
   "start_time": "8:30",
@@ -2197,6 +2326,9 @@ window.SCHOOLS = [
   "groups": [
    "VMBO"
   ],
+  "programmes": [
+   "Bilingual (TTO)"
+  ],
   "pupils": 450,
   "lesson_length": "50 min",
   "start_time": "8:30",
@@ -2232,6 +2364,10 @@ window.SCHOOLS = [
    {
     "label": "DUO exam results",
     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+   },
+   {
+    "label": "Nuffic TTO list",
+    "url": "https://www.nuffic.nl/onderwijssectoren/voortgezet-onderwijs/tweetalig-onderwijs/alle-tto-scholen-in-nederland"
    }
   ]
  },
@@ -2249,6 +2385,7 @@ window.SCHOOLS = [
   "groups": [
    "VMBO"
   ],
+  "programmes": [],
   "pupils": 400,
   "lesson_length": "60 min",
   "start_time": "9:00",
@@ -2305,6 +2442,9 @@ window.SCHOOLS = [
   "groups": [
    "VWO"
   ],
+  "programmes": [
+   "Gymnasium"
+  ],
   "pupils": 900,
   "lesson_length": "45 or 90 min",
   "start_time": "9:00",
@@ -2347,6 +2487,10 @@ window.SCHOOLS = [
    {
     "label": "DUO exam results",
     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+   },
+   {
+    "label": "DUO school registry",
+    "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
    }
   ]
  },
@@ -2365,6 +2509,7 @@ window.SCHOOLS = [
   "groups": [
    "VMBO"
   ],
+  "programmes": [],
   "pupils": 165,
   "lesson_length": "30-60-90 min",
   "start_time": "8:45",
@@ -2431,6 +2576,12 @@ window.SCHOOLS = [
    "VMBO",
    "VWO"
   ],
+  "programmes": [
+   "Gymnasium",
+   "Bilingual (TTO)",
+   "Technasium",
+   "Cambridge English"
+  ],
   "pupils": 1190,
   "lesson_length": "45 min",
   "start_time": "9:00",
@@ -2486,6 +2637,14 @@ window.SCHOOLS = [
    {
     "label": "Inspectie ratings (Sept 2026)",
     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+   },
+   {
+    "label": "Nuffic TTO list",
+    "url": "https://www.nuffic.nl/onderwijssectoren/voortgezet-onderwijs/tweetalig-onderwijs/alle-tto-scholen-in-nederland"
+   },
+   {
+    "label": "Technasium network",
+    "url": "https://www.technasium.nl/netwerk/amsterdam/"
    }
   ]
  },
@@ -2502,6 +2661,9 @@ window.SCHOOLS = [
   "groups": [
    "HAVO",
    "VMBO"
+  ],
+  "programmes": [
+   "Montessori"
   ],
   "pupils": 535,
   "lesson_length": "40 min",
@@ -2545,6 +2707,10 @@ window.SCHOOLS = [
    {
     "label": "DUO exam results",
     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+   },
+   {
+    "label": "DUO school registry",
+    "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
    }
   ]
  },
@@ -2565,6 +2731,7 @@ window.SCHOOLS = [
    "VMBO",
    "VWO"
   ],
+  "programmes": [],
   "pupils": 195,
   "lesson_length": "45 min",
   "start_time": "8:30",
@@ -2612,6 +2779,7 @@ window.SCHOOLS = [
    "VMBO",
    "VSO"
   ],
+  "programmes": [],
   "pupils": 70,
   "lesson_length": "45 min",
   "start_time": "9:30",
@@ -2660,6 +2828,9 @@ window.SCHOOLS = [
    "VMBO",
    "VWO"
   ],
+  "programmes": [
+   "Vrije school (Steiner)"
+  ],
   "pupils": 400,
   "lesson_length": "50 min",
   "start_time": "9:00",
@@ -2702,6 +2873,10 @@ window.SCHOOLS = [
    {
     "label": "schoolkeuze020.nl",
     "url": "https://schoolkeuze020.nl/scholen/kairos-tienercollege/"
+   },
+   {
+    "label": "DUO school registry",
+    "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
    }
   ]
  },
@@ -2717,6 +2892,7 @@ window.SCHOOLS = [
   "groups": [
    "VSO"
   ],
+  "programmes": [],
   "pupils": 15,
   "lesson_length": "30 - 45 min",
   "start_time": "8:30",
@@ -2756,6 +2932,9 @@ window.SCHOOLS = [
   "groups": [
    "HAVO",
    "VMBO"
+  ],
+  "programmes": [
+   "Montessori"
   ],
   "pupils": 275,
   "lesson_length": "50 & 60 min",
@@ -2803,6 +2982,10 @@ window.SCHOOLS = [
    {
     "label": "DUO exam results",
     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+   },
+   {
+    "label": "DUO school registry",
+    "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
    }
   ]
  },
@@ -2818,6 +3001,7 @@ window.SCHOOLS = [
   "groups": [
    "Praktijk"
   ],
+  "programmes": [],
   "pupils": 150,
   "lesson_length": "50 min",
   "start_time": "8:55",
@@ -2867,6 +3051,7 @@ window.SCHOOLS = [
   "groups": [
    "Praktijk"
   ],
+  "programmes": [],
   "pupils": 134,
   "lesson_length": "50 min",
   "start_time": "8:30",
@@ -2927,6 +3112,7 @@ window.SCHOOLS = [
   "groups": [
    "Praktijk"
   ],
+  "programmes": [],
   "pupils": 180,
   "lesson_length": "60 min",
   "start_time": "8:30",
@@ -2965,6 +3151,7 @@ window.SCHOOLS = [
   "groups": [
    "Praktijk"
   ],
+  "programmes": [],
   "pupils": 180,
   "lesson_length": "45 min",
   "start_time": "8:30",
@@ -3014,6 +3201,7 @@ window.SCHOOLS = [
   "groups": [
    "VSO"
   ],
+  "programmes": [],
   "pupils": 145,
   "lesson_length": "40 min",
   "start_time": "8:45",
@@ -3058,6 +3246,7 @@ window.SCHOOLS = [
   "groups": [
    "VSO"
   ],
+  "programmes": [],
   "pupils": 167,
   "lesson_length": "50 min",
   "start_time": "8:45",
@@ -3104,6 +3293,7 @@ window.SCHOOLS = [
    "Praktijk",
    "VMBO"
   ],
+  "programmes": [],
   "pupils": 164,
   "lesson_length": "30-60 min",
   "start_time": "8:30",
@@ -3157,6 +3347,7 @@ window.SCHOOLS = [
    "VMBO",
    "VWO"
   ],
+  "programmes": [],
   "pupils": 1200,
   "lesson_length": "60 min",
   "start_time": "8:45",
@@ -3238,6 +3429,7 @@ window.SCHOOLS = [
    "HAVO",
    "VMBO"
   ],
+  "programmes": [],
   "pupils": 500,
   "lesson_length": "60 min",
   "start_time": "8:30",
@@ -3303,6 +3495,7 @@ window.SCHOOLS = [
   "groups": [
    "VMBO"
   ],
+  "programmes": [],
   "pupils": 320,
   "lesson_length": "50 min",
   "start_time": "8:30",
@@ -3367,6 +3560,7 @@ window.SCHOOLS = [
    "VSO",
    "VWO"
   ],
+  "programmes": [],
   "pupils": 320,
   "lesson_length": "45 min",
   "start_time": "8:45",
@@ -3414,6 +3608,10 @@ window.SCHOOLS = [
    "HAVO",
    "VWO"
   ],
+  "programmes": [
+   "Technasium",
+   "Montessori"
+  ],
   "pupils": 1100,
   "lesson_length": "45 min",
   "start_time": "9:00",
@@ -3457,6 +3655,14 @@ window.SCHOOLS = [
    {
     "label": "DUO exam results",
     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+   },
+   {
+    "label": "DUO school registry",
+    "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
+   },
+   {
+    "label": "Technasium network",
+    "url": "https://www.technasium.nl/netwerk/amsterdam/"
    }
   ]
  },
@@ -3475,6 +3681,9 @@ window.SCHOOLS = [
    "HAVO",
    "VMBO",
    "VWO"
+  ],
+  "programmes": [
+   "Dalton"
   ],
   "pupils": 580,
   "lesson_length": "80 min",
@@ -3543,6 +3752,10 @@ window.SCHOOLS = [
    "VMBO",
    "VWO"
   ],
+  "programmes": [
+   "Gymnasium",
+   "Montessori"
+  ],
   "pupils": 1250,
   "lesson_length": "55 min",
   "start_time": "9:00",
@@ -3582,6 +3795,10 @@ window.SCHOOLS = [
    {
     "label": "DUO exam results",
     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+   },
+   {
+    "label": "DUO school registry",
+    "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
    }
   ]
  },
@@ -3603,6 +3820,9 @@ window.SCHOOLS = [
    "HAVO",
    "VMBO",
    "VWO"
+  ],
+  "programmes": [
+   "Montessori"
   ],
   "pupils": 1000,
   "lesson_length": "50 min",
@@ -3652,6 +3872,10 @@ window.SCHOOLS = [
    {
     "label": "Inspectie ratings (Sept 2026)",
     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+   },
+   {
+    "label": "DUO school registry",
+    "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
    }
   ]
  },
@@ -3670,6 +3894,10 @@ window.SCHOOLS = [
    "HAVO",
    "VMBO",
    "VWO"
+  ],
+  "programmes": [
+   "Gymnasium",
+   "Montessori"
   ],
   "pupils": 660,
   "lesson_length": "100 or 150 min",
@@ -3713,6 +3941,10 @@ window.SCHOOLS = [
    {
     "label": "DUO exam results",
     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+   },
+   {
+    "label": "DUO school registry",
+    "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
    }
   ]
  },
@@ -3731,6 +3963,9 @@ window.SCHOOLS = [
    "HAVO",
    "VMBO",
    "VWO"
+  ],
+  "programmes": [
+   "Montessori"
   ],
   "pupils": 400,
   "lesson_length": "50 min",
@@ -3776,6 +4011,7 @@ window.SCHOOLS = [
    "Praktijk",
    "VMBO"
   ],
+  "programmes": [],
   "pupils": 1100,
   "lesson_length": "50 min",
   "start_time": "8:30",
@@ -3840,6 +4076,7 @@ window.SCHOOLS = [
    "VMBO",
    "VSO"
   ],
+  "programmes": [],
   "pupils": 140,
   "lesson_length": "50 min",
   "start_time": "9:00",
@@ -3892,6 +4129,7 @@ window.SCHOOLS = [
    "VMBO",
    "VSO"
   ],
+  "programmes": [],
   "pupils": 350,
   "lesson_length": "50 min",
   "start_time": "8:40",
@@ -3936,6 +4174,7 @@ window.SCHOOLS = [
   "groups": [
    "VSO"
   ],
+  "programmes": [],
   "pupils": 120,
   "lesson_length": "60 min",
   "start_time": "8:30",
@@ -3980,6 +4219,7 @@ window.SCHOOLS = [
   "groups": [
    "VSO"
   ],
+  "programmes": [],
   "pupils": 122,
   "lesson_length": "50 min",
   "start_time": "8:30",
@@ -4029,6 +4269,9 @@ window.SCHOOLS = [
    "HAVO",
    "VMBO",
    "VWO"
+  ],
+  "programmes": [
+   "Cambridge English"
   ],
   "pupils": 1300,
   "lesson_length": "60 min",
@@ -4097,6 +4340,7 @@ window.SCHOOLS = [
    "HAVO",
    "VMBO"
   ],
+  "programmes": [],
   "pupils": 380,
   "lesson_length": "45 min",
   "start_time": "8:25",
@@ -4148,6 +4392,9 @@ window.SCHOOLS = [
   "groups": [
    "HAVO",
    "VWO"
+  ],
+  "programmes": [
+   "Gymnasium (from 2027)"
   ],
   "pupils": 900,
   "lesson_length": "50 min",
@@ -4220,6 +4467,11 @@ window.SCHOOLS = [
    "VMBO",
    "VWO"
   ],
+  "programmes": [
+   "Gymnasium",
+   "Cambridge English",
+   "Dalton"
+  ],
   "pupils": 1330,
   "lesson_length": "50 min",
   "start_time": "8:30",
@@ -4265,6 +4517,10 @@ window.SCHOOLS = [
    {
     "label": "DUO exam results",
     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+   },
+   {
+    "label": "DUO school registry",
+    "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
    }
   ]
  },
@@ -4283,6 +4539,9 @@ window.SCHOOLS = [
    "HAVO",
    "VMBO",
    "VWO"
+  ],
+  "programmes": [
+   "Dalton"
   ],
   "pupils": 1000,
   "lesson_length": "55 min",
@@ -4331,6 +4590,10 @@ window.SCHOOLS = [
    {
     "label": "Inspectie ratings (Sept 2026)",
     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+   },
+   {
+    "label": "DUO school registry",
+    "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
    }
   ]
  },
@@ -4350,6 +4613,7 @@ window.SCHOOLS = [
    "VMBO",
    "VWO"
   ],
+  "programmes": [],
   "pupils": 120,
   "lesson_length": "50 min",
   "start_time": "9:00",
@@ -4389,6 +4653,9 @@ window.SCHOOLS = [
   ],
   "groups": [
    "VWO"
+  ],
+  "programmes": [
+   "Gymnasium"
   ],
   "pupils": 800,
   "lesson_length": "70 min (Tuesday 60 min)",
@@ -4437,6 +4704,10 @@ window.SCHOOLS = [
    {
     "label": "DUO exam results",
     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+   },
+   {
+    "label": "DUO school registry",
+    "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
    }
   ]
  },
@@ -4453,6 +4724,10 @@ window.SCHOOLS = [
   "groups": [
    "HAVO",
    "VWO"
+  ],
+  "programmes": [
+   "Gymnasium",
+   "Bilingual (TTO)"
   ],
   "pupils": 1200,
   "lesson_length": "50 min",
@@ -4484,6 +4759,14 @@ window.SCHOOLS = [
    {
     "label": "DUO exam results",
     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+   },
+   {
+    "label": "DUO school registry",
+    "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
+   },
+   {
+    "label": "Nuffic TTO list",
+    "url": "https://www.nuffic.nl/onderwijssectoren/voortgezet-onderwijs/tweetalig-onderwijs/alle-tto-scholen-in-nederland"
    }
   ]
  },
@@ -4501,6 +4784,7 @@ window.SCHOOLS = [
   "groups": [
    "VMBO"
   ],
+  "programmes": [],
   "pupils": 147,
   "lesson_length": "45 min",
   "start_time": "8:30",
@@ -4568,6 +4852,9 @@ window.SCHOOLS = [
   "groups": [
    "VMBO"
   ],
+  "programmes": [
+   "Vrije school (Steiner)"
+  ],
   "pupils": 188,
   "lesson_length": "50 min",
   "start_time": "8:45",
@@ -4626,6 +4913,9 @@ window.SCHOOLS = [
    "HAVO",
    "VMBO",
    "VWO"
+  ],
+  "programmes": [
+   "Bilingual (TTO)"
   ],
   "pupils": 1450,
   "lesson_length": "40 min",
@@ -4695,6 +4985,14 @@ window.SCHOOLS = [
    {
     "label": "Inspectie ratings (Sept 2026)",
     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+   },
+   {
+    "label": "DUO school registry",
+    "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
+   },
+   {
+    "label": "Nuffic TTO list",
+    "url": "https://www.nuffic.nl/onderwijssectoren/voortgezet-onderwijs/tweetalig-onderwijs/alle-tto-scholen-in-nederland"
    }
   ]
  },
@@ -4717,6 +5015,7 @@ window.SCHOOLS = [
    "VMBO",
    "VSO"
   ],
+  "programmes": [],
   "pupils": 250,
   "lesson_length": "50 min",
   "start_time": "8:30",
@@ -4759,6 +5058,7 @@ window.SCHOOLS = [
    "VMBO",
    "VWO"
   ],
+  "programmes": [],
   "pupils": 405,
   "lesson_length": "40 or 80 min",
   "start_time": "9:00",
@@ -4811,6 +5111,7 @@ window.SCHOOLS = [
    "VMBO",
    "VSO"
   ],
+  "programmes": [],
   "pupils": 50,
   "lesson_length": "45 min",
   "start_time": "8:45",
@@ -4858,6 +5159,7 @@ window.SCHOOLS = [
   "groups": [
    "VMBO"
   ],
+  "programmes": [],
   "pupils": 382,
   "lesson_length": "45 min",
   "start_time": "8:30",
@@ -4933,6 +5235,9 @@ window.SCHOOLS = [
   "groups": [
    "VWO"
   ],
+  "programmes": [
+   "Gymnasium"
+  ],
   "pupils": 830,
   "lesson_length": "45 min",
   "start_time": "8:30",
@@ -4978,6 +5283,10 @@ window.SCHOOLS = [
    {
     "label": "DUO exam results",
     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+   },
+   {
+    "label": "DUO school registry",
+    "url": "https://onderwijsdata.duo.nl/datasets/rio_nfo_po_vo_vavo_mbo_ho"
    }
   ]
  },
@@ -4996,6 +5305,9 @@ window.SCHOOLS = [
    "HAVO",
    "VMBO",
    "VWO"
+  ],
+  "programmes": [
+   "Agora"
   ],
   "pupils": 465,
   "lesson_length": null,
@@ -5040,6 +5352,7 @@ window.SCHOOLS = [
   "groups": [
    "VMBO"
   ],
+  "programmes": [],
   "pupils": 320,
   "lesson_length": "60 min",
   "start_time": "8:30",
@@ -5124,6 +5437,7 @@ window.SCHOOLS = [
    "Praktijk",
    "VMBO"
   ],
+  "programmes": [],
   "pupils": 300,
   "lesson_length": "60 min",
   "start_time": "8:25",

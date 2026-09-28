@@ -20,7 +20,7 @@
       header { flex-wrap: nowrap; }
       h1 { display: none; }
       #search { flex: 1 1 0; }
-      #level { flex: 0 1 auto; min-width: 0; max-width: 130px; }
+      #level, #programme { flex: 0 1 auto; min-width: 0; max-width: 105px; }
     }
     #map { height: 100%; }
 
@@ -33,6 +33,7 @@
     .card-body h2 { margin: 0 0 2px; font-size: 1rem; }
     .meta { color: var(--muted); font-size: 12px; }
     .levels span { display: inline-block; font-size: 11px; padding: 0 6px; border-radius: 4px; background: var(--line); margin: 4px 4px 0 0; }
+    .programmes span { display: inline-block; font-size: 11px; padding: 0 6px; border-radius: 4px; border: 1px solid var(--accent); color: var(--accent); margin: 4px 4px 0 0; }
     .dates { margin: 8px 0 0; padding: 0; list-style: none; font-size: 12px; }
     .dates li { padding: 3px 0; border-top: 1px solid var(--line); }
     .dates li.past { color: var(--muted); text-decoration: line-through; }
@@ -55,8 +56,12 @@
     <select id="level">
       <option value="">All levels</option>
       <option>VMBO</option><option>HAVO</option><option>VWO</option>
+      <option value="HAVO+VWO">HAVO/VWO</option>
       <option value="Praktijk">Praktijkonderwijs</option>
       <option value="VSO">Special needs (VSO)</option>
+    </select>
+    <select id="programme">
+      <option value="">All programmes</option>
     </select>
   </header>
   <div id="map"></div>
@@ -90,6 +95,7 @@
           <h2>${esc(s.name)}</h2>
           <div class="meta">${esc(s.address)} · ${esc(s.area)} · <a href="${esc(s.website)}" target="_blank">website</a></div>
           <div class="levels">${s.levels.map(l => `<span>${esc(l)}</span>`).join("")}</div>
+          ${s.programmes.length ? `<div class="programmes">${s.programmes.map(p => `<span>${esc(p)}</span>`).join("")}</div>` : ""}
           ${dates}
           <details><summary>Good &amp; less good</summary>
             ${section("Good", "good", s.pros)}
@@ -105,14 +111,22 @@
     function render() {
       const q = document.getElementById("search").value.toLowerCase();
       const lvl = document.getElementById("level").value;
+      const prog = document.getElementById("programme").value;
       pins.clearLayers();
       window.SCHOOLS
-        .filter(s => s.name.toLowerCase().includes(q) && (!lvl || s.groups.includes(lvl)))
+        .filter(s => s.name.toLowerCase().includes(q) && (!lvl || lvl.split("+").every(g => s.groups.includes(g)))
+                     && (!prog || s.programmes.some(p => p.startsWith(prog))))
         .forEach(s => L.marker([s.lat, s.lng], { title: s.name }).bindPopup(card(s), { maxWidth: 280, minWidth: 280, maxHeight: 420, autoPanPaddingTopLeft: [20, 70] }).addTo(pins));
     }
 
+    // Fill the programme filter from the data; "Gymnasium (from 2027)" is listed under "Gymnasium"
+    const progSelect = document.getElementById("programme");
+    [...new Set(window.SCHOOLS.flatMap(s => s.programmes).map(p => p.replace(/ \(from .*\)$/, "")))].sort()
+      .forEach(p => progSelect.add(new Option(p, p)));
+
     document.getElementById("search").oninput = render;
     document.getElementById("level").onchange = render;
+    progSelect.onchange = render;
     render();
   </script>
 </body>
