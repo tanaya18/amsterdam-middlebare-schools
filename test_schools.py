@@ -4,7 +4,7 @@ import re
 from datetime import date
 from pathlib import Path
 
-REQUIRED_FIELDS = {"name", "address", "area", "lat", "lng", "levels", "groups", "website", "dates_url",
+REQUIRED_FIELDS = {"name", "address", "area", "lat", "lng", "levels", "groups", "programmes", "website", "dates_url",
                    "image", "open_days", "highlights", "pros", "cons", "facts", "sources"}
 
 

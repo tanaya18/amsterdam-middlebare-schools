@@ -139,6 +139,7 @@ def build(static, pages):
         out.append({
             "name": s["name"], "area": area.strip(), "address": address, "lat": lat, "lng": lng,
             "levels": levels, "groups": sorted({level_group(l) for l in levels} - {None}),
+            "programmes": known.get("programmes", []) if known else [],
             "pupils": int(s["Aantal leerlingen"]) if s.get("Aantal leerlingen", "").isdigit() else None,
             "lesson_length": en_text(s.get("Duur lessen")), "start_time": en_text(s.get("Starttijd eerste les")),
             "website": s["website"], "dates_url": s["opendays_url"] or s["website"], "profile_url": s["url"],
