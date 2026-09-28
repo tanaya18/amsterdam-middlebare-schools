@@ -1,0 +1,1957 @@
+{
+ "schools": {
+  "alasca": {
+   "address": "Geertje Wielemaplein 1",
+   "lat": 52.371505,
+   "lng": 4.968927,
+   "pros": [],
+   "cons": [
+    "VWO exam pass rate 73% vs 89% nationally (2023–2025)"
+   ],
+   "facts": [
+    "HAVO exam pass rate 76–81% vs 86% nationally (2023–2025)",
+    "Inspectorate rated vwo: sufficient (2026)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "amsterdams-beroepscollege-noorderlicht": {
+   "address": "Rode Kruisstraat 14",
+   "lat": 52.395163,
+   "lng": 4.930758,
+   "pros": [],
+   "cons": [
+    "Inspectorate rated vmbo-k: insufficient (2025)"
+   ],
+   "facts": [
+    "VMBO exam pass rate 91% vs 93% nationally (2023–2025)",
+    "Inspectorate rated vmbo-gt: sufficient (2023)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "barlaeus-gymnasium": {
+   "address": "Weteringschans 29-31",
+   "lat": 52.362441,
+   "lng": 4.884384,
+   "pros": [
+    "VWO exam pass rate 93% vs 89% nationally (2023–2025)"
+   ],
+   "cons": [],
+   "facts": [],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    }
+   ]
+  },
+  "berlage-lyceum": {
+   "address": "P.L. Takstraat 33-34",
+   "lat": 52.348925,
+   "lng": 4.899888,
+   "pros": [],
+   "cons": [
+    "HAVO exam pass rate 71% vs 86% nationally (2023–2025)",
+    "VMBO exam pass rate 73% vs 93% nationally (2023–2025)",
+    "Inspectorate rated havo: insufficient (2026)"
+   ],
+   "facts": [
+    "VWO exam pass rate 86% vs 89% nationally (2023–2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "bindelmeer-college": {
+   "address": "Dubbelink 1",
+   "lat": 52.322435,
+   "lng": 4.948898,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "VMBO exam pass rate 90% vs 93% nationally (2023–2025)",
+    "Inspectorate rated vmbo-b: sufficient (2024)",
+    "Inspectorate rated vmbo-gt: sufficient (2024)",
+    "Inspectorate rated vmbo-k: sufficient (2024)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "bredero": {
+   "address": "Gare du Nord 5",
+   "lat": 52.401925,
+   "lng": 4.931065,
+   "pros": [],
+   "cons": [
+    "HAVO exam pass rate at most 66% vs 86% nationally (2023–2025)",
+    "VMBO exam pass rate 83% vs 93% nationally (2023–2025)"
+   ],
+   "facts": [
+    "Inspectorate rated havo: sufficient (2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "calandlyceum": {
+   "address": "Pieter Calandlaan 182",
+   "lat": 52.353669,
+   "lng": 4.805969,
+   "pros": [],
+   "cons": [
+    "HAVO exam pass rate 67% vs 86% nationally (2023–2025)",
+    "VMBO exam pass rate 68% vs 93% nationally (2023–2025)",
+    "VWO exam pass rate 74% vs 89% nationally (2023–2025)"
+   ],
+   "facts": [
+    "Inspectorate rated havo: sufficient (2025)",
+    "Inspectorate rated vmbo-gt: sufficient (2025)",
+    "Inspectorate rated vwo: sufficient (2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "calvijn-college": {
+   "address": "Pieter Calandlaan 3",
+   "lat": 52.356095,
+   "lng": 4.831522,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "VMBO exam pass rate 88% vs 93% nationally (2023–2025)",
+    "Inspectorate rated vmbo-k: sufficient (2024)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "casparus-college": {
+   "address": "Talmastraat 40, Weesp",
+   "lat": 52.306298,
+   "lng": 5.036319,
+   "pros": [],
+   "cons": [
+    "Inspectorate rated vmbo-gt: insufficient (2026)"
+   ],
+   "facts": [
+    "VMBO exam pass rate 91% vs 93% nationally (2023–2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "cburg-college": {
+   "address": "Foekje Dillemastraat 116",
+   "lat": 52.371995,
+   "lng": 4.968078,
+   "pros": [
+    "VMBO exam pass rate 98% vs 93% nationally (2023–2025)"
+   ],
+   "cons": [],
+   "facts": [],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    }
+   ]
+  },
+  "cheider-vo": {
+   "address": "Zeelandstraat 11",
+   "lat": 52.326799,
+   "lng": 4.878934,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "Inspectorate rated havo: sufficient (2026)"
+   ],
+   "extra_sources": [
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "college-de-meer": {
+   "address": "Radioweg 56",
+   "lat": 52.351509,
+   "lng": 4.94194,
+   "pros": [],
+   "cons": [],
+   "facts": [],
+   "extra_sources": []
+  },
+  "college-zuyd": {
+   "address": "Karel du Jardinstraat 54",
+   "lat": 52.35112,
+   "lng": 4.895828,
+   "pros": [],
+   "cons": [],
+   "facts": [],
+   "extra_sources": []
+  },
+  "comenius-lyceum-amsterdam": {
+   "address": "Jacob Geelstraat 38",
+   "lat": 52.361438,
+   "lng": 4.831001,
+   "pros": [],
+   "cons": [
+    "VMBO exam pass rate at most 77% vs 93% nationally (2023–2025)"
+   ],
+   "facts": [
+    "HAVO exam pass rate 83% vs 86% nationally (2023–2025)",
+    "VWO exam pass rate 78–87% vs 89% nationally (2023–2025)",
+    "Inspectorate rated havo: sufficient (2024)",
+    "Inspectorate rated vwo: sufficient (2024)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "cornelius-haga-lyceum": {
+   "address": "Reinaert de Vosstraat 27",
+   "lat": 52.378363,
+   "lng": 4.854713,
+   "pros": [],
+   "cons": [
+    "HAVO exam pass rate at most 55% vs 86% nationally (2023–2025)",
+    "VMBO exam pass rate 41% vs 93% nationally (2023–2025)",
+    "VWO exam pass rate at most 81% vs 89% nationally (2023–2025)",
+    "Inspectorate rated havo: very weak (2025)",
+    "Inspectorate rated vmbo-gt: very weak (2025)",
+    "Inspectorate rated vwo: insufficient (2025)"
+   ],
+   "facts": [],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "csb": {
+   "address": "De Cuserstraat 3",
+   "lat": 52.323434,
+   "lng": 4.867795,
+   "pros": [],
+   "cons": [
+    "HAVO exam pass rate 79% vs 86% nationally (2023–2025)",
+    "VMBO exam pass rate 86% vs 93% nationally (2023–2025)",
+    "VWO exam pass rate at most 79% vs 89% nationally (2023–2025)",
+    "Inspectorate rated havo: insufficient (2025)"
+   ],
+   "facts": [],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "cygnus-gymnasium": {
+   "address": "Vrolikstraat 8",
+   "lat": 52.354936,
+   "lng": 4.912505,
+   "pros": [
+    "VWO exam pass rate 94% vs 89% nationally (2023–2025)"
+   ],
+   "cons": [],
+   "facts": [],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    }
+   ]
+  },
+  "damstede-lyceum": {
+   "address": "Rode Kruisstraat 83",
+   "lat": 52.3954,
+   "lng": 4.926602,
+   "pros": [],
+   "cons": [
+    "HAVO exam pass rate 69% vs 86% nationally (2023–2025)",
+    "VWO exam pass rate 68% vs 89% nationally (2023–2025)",
+    "Inspectorate rated havo: insufficient (2026)",
+    "Inspectorate rated vwo: insufficient (2026)"
+   ],
+   "facts": [],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "de-amsterdamse-mavo": {
+   "address": "Linnaeushof 48",
+   "lat": 52.351673,
+   "lng": 4.935495,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "VMBO exam pass rate 95% vs 93% nationally (2023–2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    }
+   ]
+  },
+  "de-apollo": {
+   "address": "Oudaen 6, Buitenveldert",
+   "lat": 52.325558,
+   "lng": 4.864162,
+   "pros": [],
+   "cons": [
+    "HAVO exam pass rate at most 78% vs 86% nationally (2023–2025)",
+    "VMBO exam pass rate 83% vs 93% nationally (2023–2025)",
+    "Inspectorate rated havo: insufficient (2025)",
+    "Inspectorate rated vmbo-gt: insufficient (2025)"
+   ],
+   "facts": [],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "denise": {
+   "address": "Piet Mondriaanstraat 140",
+   "lat": 52.36606,
+   "lng": 4.83711,
+   "pros": [],
+   "cons": [
+    "VMBO exam pass rate 65% vs 93% nationally (2023–2025)"
+   ],
+   "facts": [
+    "HAVO exam pass rate 71–89% vs 86% nationally (2023–2025)",
+    "Inspectorate rated vmbo-gt: sufficient (2025)",
+    "Inspectorate rated vwo: sufficient (2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "fiducie-college": {
+   "address": "Derkinderenstraat 44",
+   "lat": 52.359822,
+   "lng": 4.84093,
+   "pros": [],
+   "cons": [
+    "Inspectorate rated havo: insufficient (2026)",
+    "Inspectorate rated vmbo-gt: insufficient (2026)"
+   ],
+   "facts": [],
+   "extra_sources": [
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "fons-vitae-lyceum": {
+   "address": "Reijnier Vinkeleskade 53",
+   "lat": 52.351742,
+   "lng": 4.878365,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "HAVO exam pass rate 85% vs 86% nationally (2023–2025)",
+    "VWO exam pass rate 86% vs 89% nationally (2023–2025)",
+    "Inspectorate rated havo: sufficient (2024)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "futuris": {
+   "address": "Pandora 1-2, Amstelveen",
+   "lat": 52.303159,
+   "lng": 4.878526,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "VMBO exam pass rate 90% vs 93% nationally (2023–2025)",
+    "Inspectorate rated vmbo-b: sufficient (2024)",
+    "Inspectorate rated vmbo-gt: sufficient (2024)",
+    "Inspectorate rated vmbo-k: sufficient (2024)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "geert-groote-college-amsterdam": {
+   "address": "Fred. Roeskestraat 84",
+   "lat": 52.341693,
+   "lng": 4.862769,
+   "pros": [],
+   "cons": [
+    "VMBO exam pass rate at most 85% vs 93% nationally (2023–2025)",
+    "VWO exam pass rate 79% vs 89% nationally (2023–2025)"
+   ],
+   "facts": [
+    "HAVO exam pass rate 84% vs 86% nationally (2023–2025)",
+    "Inspectorate rated havo: sufficient (2025)",
+    "Inspectorate rated vmbo-gt: sufficient (2025)",
+    "Inspectorate rated vwo: sufficient (2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "gerrit-van-der-veen-college": {
+   "address": "Gerrit van der Veenstraat 99",
+   "lat": 52.348774,
+   "lng": 4.874617,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "HAVO exam pass rate 87% vs 86% nationally (2023–2025)",
+    "VWO exam pass rate 84% vs 89% nationally (2023–2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    }
+   ]
+  },
+  "havo-de-hof": {
+   "address": "Dapperstraat 315",
+   "lat": 52.360654,
+   "lng": 4.929076,
+   "pros": [],
+   "cons": [
+    "Inspectorate rated havo: insufficient (2026)"
+   ],
+   "facts": [
+    "HAVO exam pass rate 82% vs 86% nationally (2023–2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "hervormd-lyceum-west": {
+   "address": "Hemsterhuisstraat 79",
+   "lat": 52.362545,
+   "lng": 4.825629,
+   "pros": [],
+   "cons": [
+    "HAVO exam pass rate at most 80% vs 86% nationally (2023–2025)",
+    "VMBO exam pass rate 85% vs 93% nationally (2023–2025)"
+   ],
+   "facts": [
+    "VWO exam pass rate 88% vs 89% nationally (2023–2025)",
+    "Inspectorate rated havo: sufficient (2024)",
+    "Inspectorate rated vmbo-gt: sufficient (2024)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "het-4e-gymnasium": {
+   "address": "Archangelweg 4",
+   "lat": 52.394324,
+   "lng": 4.872864,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "VWO exam pass rate 90% vs 89% nationally (2023–2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    }
+   ]
+  },
+  "het-amsterdams-lyceum": {
+   "address": "Valeriusplein 15",
+   "lat": 52.351213,
+   "lng": 4.865166,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "VWO exam pass rate 89% vs 89% nationally (2023–2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    }
+   ]
+  },
+  "het-cartesius": {
+   "address": "Frederik Hendrikplantsoen 7A",
+   "lat": 52.377938,
+   "lng": 4.876556,
+   "pros": [],
+   "cons": [
+    "HAVO exam pass rate at most 70% vs 86% nationally (2023–2025)",
+    "VWO exam pass rate 74% vs 89% nationally (2023–2025)"
+   ],
+   "facts": [
+    "Inspectorate rated havo: sufficient (2026)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "hlz": {
+   "address": "Jan van Eijckstraat 21 (first-years; main building Dongestraat 12)",
+   "lat": 52.349591,
+   "lng": 4.876442,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "HAVO exam pass rate 79–82% vs 86% nationally (2023–2025)",
+    "VWO exam pass rate 93% vs 89% nationally (2023–2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    }
+   ]
+  },
+  "hubertus-berkhoff": {
+   "address": "Betuwestraat 29",
+   "lat": 52.339459,
+   "lng": 4.893824,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "VMBO exam pass rate 93% vs 93% nationally (2023–2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    }
+   ]
+  },
+  "huygens-college": {
+   "address": "2e Constantijn Huygensstraat 31",
+   "lat": 52.364503,
+   "lng": 4.872585,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "VMBO exam pass rate 91% vs 93% nationally (2023–2025)",
+    "Inspectorate rated vmbo-b: sufficient (2024)",
+    "Inspectorate rated vmbo-k: sufficient (2024)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "hyperion-lyceum": {
+   "address": "Badhuiskade 361",
+   "lat": 52.385429,
+   "lng": 4.906151,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "VWO exam pass rate 87% vs 89% nationally (2023–2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    }
+   ]
+  },
+  "iedersland-college": {
+   "address": "Zekeringstraat 38-40",
+   "lat": 52.396813,
+   "lng": 4.850216,
+   "pros": [],
+   "cons": [
+    "Inspectorate rated vmbo-b: insufficient (2026)"
+   ],
+   "facts": [
+    "VMBO exam pass rate 92% vs 93% nationally (2023–2025)",
+    "Inspectorate rated vmbo-k: sufficient (2026)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "ir-lely-lyceum": {
+   "address": "Ravenswaaipad 3",
+   "lat": 52.297146,
+   "lng": 4.978005,
+   "pros": [],
+   "cons": [
+    "HAVO exam pass rate 57% vs 86% nationally (2023–2025)",
+    "VMBO exam pass rate 75% vs 93% nationally (2023–2025)",
+    "VWO exam pass rate at most 72% vs 89% nationally (2023–2025)",
+    "Inspectorate rated havo: insufficient (2026)",
+    "Inspectorate rated vmbo-gt: insufficient (2026)",
+    "Inspectorate rated vwo: insufficient (2026)"
+   ],
+   "facts": [],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "ivko": {
+   "address": "Rustenburgerstraat 15",
+   "lat": 52.353785,
+   "lng": 4.905765,
+   "pros": [],
+   "cons": [
+    "HAVO exam pass rate 80% vs 86% nationally (2023–2025)"
+   ],
+   "facts": [
+    "VMBO exam pass rate 94% vs 93% nationally (2023–2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    }
+   ]
+  },
+  "joodse-scholengemeenschap-maimonides": {
+   "address": "Noordbrabantstraat 15-17",
+   "lat": 52.325683,
+   "lng": 4.887029,
+   "pros": [
+    "VWO exam pass rate 100% vs 89% nationally (2023–2025)"
+   ],
+   "cons": [],
+   "facts": [],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    }
+   ]
+  },
+  "jordaan-college": {
+   "address": "Konijnenstraat 7",
+   "lat": 52.371139,
+   "lng": 4.881774,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "Inspectorate rated the school: sufficient (2024)"
+   ],
+   "extra_sources": [
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "kairos-tienercollege": {
+   "address": "Meeuwenlaan 136",
+   "lat": 52.390422,
+   "lng": 4.925496,
+   "pros": [],
+   "cons": [],
+   "facts": [],
+   "extra_sources": []
+  },
+  "kentalis-signis-vso-cmb": {
+   "address": "Herman de Manstraat 1",
+   "lat": 52.375742,
+   "lng": 4.829911,
+   "pros": [],
+   "cons": [],
+   "facts": [],
+   "extra_sources": []
+  },
+  "kiem-montessori": {
+   "address": "Tweede Oosterparkstraat 33",
+   "lat": 52.356178,
+   "lng": 4.912932,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "VMBO exam pass rate 95% vs 93% nationally (2023–2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    }
+   ]
+  },
+  "kolom-praktijkcollege-de-atlant": {
+   "address": "Teilingen 4",
+   "lat": 52.326595,
+   "lng": 4.871294,
+   "pros": [],
+   "cons": [],
+   "facts": [],
+   "extra_sources": []
+  },
+  "kolom-praktijkcollege-de-dreef": {
+   "address": "Alexander Dumaslaan 7",
+   "lat": 52.323323,
+   "lng": 4.941315,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "Inspectorate rated praktijkonderwijs: sufficient (2023)"
+   ],
+   "extra_sources": [
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "kolom-praktijkcollege-het-plein": {
+   "address": "Jan de Louterpad 5",
+   "lat": 52.378825,
+   "lng": 4.818667,
+   "pros": [],
+   "cons": [],
+   "facts": [],
+   "extra_sources": []
+  },
+  "kolom-praktijkcollege-noord": {
+   "address": "Oostzanerdijk 139",
+   "lat": 52.420657,
+   "lng": 4.87871,
+   "pros": [],
+   "cons": [],
+   "facts": [],
+   "extra_sources": []
+  },
+  "kolom-vso-alphons-laudy": {
+   "address": "Van Nijenrodeweg 648",
+   "lat": 52.327177,
+   "lng": 4.872798,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "Inspectorate rated the school: sufficient (2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "kolom-vso-de-heldring": {
+   "address": "Burgemeester Eliasstraat 20",
+   "lat": 52.379361,
+   "lng": 4.827086,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "Inspectorate rated the school: sufficient (2024)"
+   ],
+   "extra_sources": [
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "luca-praktijkschool": {
+   "address": "Javaplantsoen 24",
+   "lat": 52.362681,
+   "lng": 4.944353,
+   "pros": [],
+   "cons": [],
+   "facts": [],
+   "extra_sources": []
+  },
+  "lumion": {
+   "address": "Vlaardingenlaan 25",
+   "lat": 52.346502,
+   "lng": 4.835428,
+   "pros": [],
+   "cons": [
+    "HAVO exam pass rate 65% vs 86% nationally (2023–2025)",
+    "VMBO exam pass rate 81% vs 93% nationally (2023–2025)",
+    "VWO exam pass rate 62% vs 89% nationally (2023–2025)",
+    "Inspectorate rated havo: very weak (2025)",
+    "Inspectorate rated vmbo-gt: very weak (2025)"
+   ],
+   "facts": [
+    "Inspectorate rated vwo: sufficient (2024)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "marcanti-college": {
+   "address": "Jan van Galenstraat 31",
+   "lat": 52.375224,
+   "lng": 4.866132,
+   "pros": [],
+   "cons": [
+    "HAVO exam pass rate at most 60% vs 86% nationally (2023–2025)",
+    "VMBO exam pass rate at most 84% vs 93% nationally (2023–2025)"
+   ],
+   "facts": [
+    "Inspectorate rated havo: sufficient (2025)",
+    "Inspectorate rated vmbo-gt: sufficient (2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "mediacollege-amsterdam": {
+   "address": "Dintelstraat 15",
+   "lat": 52.344592,
+   "lng": 4.893171,
+   "pros": [],
+   "cons": [
+    "VMBO exam pass rate 86% vs 93% nationally (2023–2025)",
+    "Inspectorate rated vmbo-b: very weak (2025)"
+   ],
+   "facts": [],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "meiberg-college": {
+   "address": "Tafelbergweg 23",
+   "lat": 52.289879,
+   "lng": 4.953902,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "Inspectorate rated the school: sufficient (2026)"
+   ],
+   "extra_sources": [
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "metis-montessori-lyceum": {
+   "address": "Mauritskade 58",
+   "lat": 52.36178,
+   "lng": 4.918157,
+   "pros": [
+    "HAVO exam pass rate 89% vs 86% nationally (2023–2025)",
+    "VWO exam pass rate 94% vs 89% nationally (2023–2025)"
+   ],
+   "cons": [],
+   "facts": [],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    }
+   ]
+  },
+  "metropolis-lyceum": {
+   "address": "Meidoornweg 52",
+   "lat": 52.387619,
+   "lng": 4.912896,
+   "pros": [],
+   "cons": [
+    "HAVO exam pass rate at most 78% vs 86% nationally (2023–2025)"
+   ],
+   "facts": [
+    "Inspectorate rated havo: sufficient (2024)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "montessori-lyceum-amsterdam-mla": {
+   "address": "Nicolaas Maesstraat 1",
+   "lat": 52.355004,
+   "lng": 4.885466,
+   "pros": [],
+   "cons": [
+    "HAVO exam pass rate 74% vs 86% nationally (2023–2025)"
+   ],
+   "facts": [
+    "VMBO exam pass rate 89% vs 93% nationally (2023–2025)",
+    "VWO exam pass rate 85% vs 89% nationally (2023–2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    }
+   ]
+  },
+  "montessori-lyceum-oostpoort": {
+   "address": "Polderweg 3",
+   "lat": 52.358068,
+   "lng": 4.929793,
+   "pros": [],
+   "cons": [
+    "HAVO exam pass rate at most 68% vs 86% nationally (2023–2025)",
+    "VMBO exam pass rate 88% vs 93% nationally (2023–2025)"
+   ],
+   "facts": [
+    "Inspectorate rated vmbo-b: sufficient (2025)",
+    "Inspectorate rated vmbo-k: sufficient (2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "montessori-lyceum-pax": {
+   "address": "C. van Eesterenlaan 50",
+   "lat": 52.37258,
+   "lng": 4.938146,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "VMBO exam pass rate 94% vs 93% nationally (2023–2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    }
+   ]
+  },
+  "montessori-lyceum-terra-nova": {
+   "address": "Pampuslaan 1",
+   "lat": 52.351296,
+   "lng": 5.004335,
+   "pros": [],
+   "cons": [],
+   "facts": [],
+   "extra_sources": []
+  },
+  "mundus-college": {
+   "address": "Burgemeester Hogguerstraat 2",
+   "lat": 52.373319,
+   "lng": 4.830646,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "VMBO exam pass rate 90% vs 93% nationally (2023–2025)",
+    "Inspectorate rated praktijkonderwijs: sufficient (2023)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "orion-college-amstel": {
+   "address": "Wibautstraat 220-222",
+   "lat": 52.349649,
+   "lng": 4.916451,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "Inspectorate rated the school: sufficient (2026)"
+   ],
+   "extra_sources": [
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "orion-college-drostenburg": {
+   "address": "Drostenburg 5B",
+   "lat": 52.321894,
+   "lng": 4.946905,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "Inspectorate rated the school: sufficient (2024)"
+   ],
+   "extra_sources": [
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "orion-college-noord": {
+   "address": "Beijerlandstraat 2",
+   "lat": 52.392458,
+   "lng": 4.930408,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "Inspectorate rated the school: sufficient (2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "orion-college-zuidoost": {
+   "address": "Bijlmerdreef 1289-2",
+   "lat": 52.322681,
+   "lng": 4.975657,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "Inspectorate rated the school: sufficient (2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "osb-amsterdam": {
+   "address": "Gulden Kruis 5",
+   "lat": 52.318628,
+   "lng": 4.965384,
+   "pros": [],
+   "cons": [
+    "HAVO exam pass rate 76% vs 86% nationally (2023–2025)",
+    "VWO exam pass rate at most 67% vs 89% nationally (2023–2025)"
+   ],
+   "facts": [
+    "VMBO exam pass rate 88% vs 93% nationally (2023–2025)",
+    "Inspectorate rated vwo: sufficient (2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "over-y-college": {
+   "address": "Floraweg 170",
+   "lat": 52.400153,
+   "lng": 4.912476,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "VMBO exam pass rate 89% vs 93% nationally (2023–2025)",
+    "Inspectorate rated vmbo-gt: sufficient (2026)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "pieter-nieuwland-college": {
+   "address": "Nobelweg 6",
+   "lat": 52.349722,
+   "lng": 4.923641,
+   "pros": [
+    "HAVO exam pass rate 90% vs 86% nationally (2023–2025)"
+   ],
+   "cons": [
+    "VWO exam pass rate 84% vs 89% nationally (2023–2025)"
+   ],
+   "facts": [],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    }
+   ]
+  },
+  "spinoza-lyceum": {
+   "address": "Peter van Anrooystraat 8",
+   "lat": 52.342642,
+   "lng": 4.865913,
+   "pros": [
+    "VWO exam pass rate 95% vs 89% nationally (2023–2025)"
+   ],
+   "cons": [],
+   "facts": [
+    "HAVO exam pass rate 87% vs 86% nationally (2023–2025)",
+    "VMBO exam pass rate 89% vs 93% nationally (2023–2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    }
+   ]
+  },
+  "spinoza20first": {
+   "address": "H.J.E. Wenckebachweg 44",
+   "lat": 52.336456,
+   "lng": 4.925499,
+   "pros": [],
+   "cons": [
+    "HAVO exam pass rate at most 71% vs 86% nationally (2023–2025)",
+    "VMBO exam pass rate 83% vs 93% nationally (2023–2025)",
+    "VWO exam pass rate 79% vs 89% nationally (2023–2025)",
+    "Inspectorate rated havo: very weak (2026)"
+   ],
+   "facts": [],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "spring-high": {
+   "address": "Burgemeester Hogguerstraat 2",
+   "lat": 52.373319,
+   "lng": 4.830896,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "No exam or inspection record of its own yet (new or special school)"
+   ],
+   "extra_sources": []
+  },
+  "st-ignatiusgymnasium": {
+   "address": "Jan van Eijckstraat 47",
+   "lat": 52.349777,
+   "lng": 4.87393,
+   "pros": [
+    "VWO exam pass rate 94% vs 89% nationally (2023–2025)"
+   ],
+   "cons": [],
+   "facts": [],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    }
+   ]
+  },
+  "st-nicolaaslyceum": {
+   "address": "Beethovenplein 2",
+   "lat": 52.341507,
+   "lng": 4.878115,
+   "pros": [
+    "HAVO exam pass rate 89% vs 86% nationally (2023–2025)",
+    "VWO exam pass rate 93% vs 89% nationally (2023–2025)"
+   ],
+   "cons": [],
+   "facts": [],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    }
+   ]
+  },
+  "tasc-tech-amsterdam-scholen-collectief": {
+   "address": "Darlingstraat 2",
+   "lat": 52.31927,
+   "lng": 4.950962,
+   "pros": [],
+   "cons": [
+    "VMBO exam pass rate at most 79% vs 93% nationally (2023–2025)",
+    "Inspectorate rated vmbo-k: very weak (2025)"
+   ],
+   "facts": [],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "tobiasschool": {
+   "address": "Rietwijkerstraat 55",
+   "lat": 52.349443,
+   "lng": 4.847149,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "VMBO exam pass rate 94% vs 93% nationally (2023–2025)",
+    "Inspectorate rated vmbo-b: sufficient (2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "vechtstede-college": {
+   "address": "Amstellandlaan 1a, Weesp",
+   "lat": 52.309772,
+   "lng": 5.030708,
+   "pros": [
+    "HAVO exam pass rate 92% vs 86% nationally (2023–2025)"
+   ],
+   "cons": [],
+   "facts": [
+    "VMBO exam pass rate 94% vs 93% nationally (2023–2025)",
+    "VWO exam pass rate 91% vs 89% nationally (2023–2025)",
+    "Inspectorate rated havo: sufficient (2026)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "viertaal-college-amsterdam": {
+   "address": "Zekeringstraat 45",
+   "lat": 52.395863,
+   "lng": 4.848773,
+   "pros": [],
+   "cons": [],
+   "facts": [],
+   "extra_sources": []
+  },
+  "vinse-school": {
+   "address": "Haarlemmerstraat 132-136",
+   "lat": 52.381168,
+   "lng": 4.890046,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "HAVO exam pass rate 87–89% vs 86% nationally (2023–2025)",
+    "VMBO exam pass rate 89% vs 93% nationally (2023–2025)",
+    "VWO exam pass rate 88–97% vs 89% nationally (2023–2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    }
+   ]
+  },
+  "visio-onderwijs-amsterdam": {
+   "address": "Burgermeester Eliasstraat 76",
+   "lat": 52.383882,
+   "lng": 4.827341,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "Inspectorate rated the school: sufficient (2024)"
+   ],
+   "extra_sources": [
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "vonk": {
+   "address": "Rode Kruisstraat 40",
+   "lat": 52.396085,
+   "lng": 4.927109,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "VMBO exam pass rate 92% vs 93% nationally (2023–2025)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    }
+   ]
+  },
+  "vossius-gymnasium": {
+   "address": "Messchaertstraat 1",
+   "lat": 52.345686,
+   "lng": 4.883913,
+   "pros": [
+    "VWO exam pass rate 93% vs 89% nationally (2023–2025)"
+   ],
+   "cons": [],
+   "facts": [],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    }
+   ]
+  },
+  "xplore-agora-amsterdam": {
+   "address": "Elzenhagenpad 2",
+   "lat": 52.399113,
+   "lng": 4.926135,
+   "pros": [],
+   "cons": [],
+   "facts": [
+    "No exam or inspection record of its own yet (new or special school)"
+   ],
+   "extra_sources": []
+  },
+  "yuverta-vmbo-amsterdam-west": {
+   "address": "Jan van Zutphenstraat 60",
+   "lat": 52.349743,
+   "lng": 4.795351,
+   "pros": [],
+   "cons": [
+    "VMBO exam pass rate 83% vs 93% nationally (2023–2025)",
+    "Inspectorate rated vmbo-b: insufficient (2025)",
+    "Inspectorate rated vmbo-k: insufficient (2025)"
+   ],
+   "facts": [],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  },
+  "yuverta-vmbo-pro-amsterdam-oost": {
+   "address": "Archimedesplantsoen 87",
+   "lat": 52.353327,
+   "lng": 4.944861,
+   "pros": [
+    "VMBO exam pass rate 100% vs 93% nationally (2023–2025)"
+   ],
+   "cons": [],
+   "facts": [
+    "Inspectorate rated praktijkonderwijs: sufficient (2024)",
+    "Inspectorate rated vmbo-b: sufficient (2024)",
+    "Inspectorate rated vmbo-k: sufficient (2024)"
+   ],
+   "extra_sources": [
+    {
+     "label": "DUO exam results",
+     "url": "https://duo.nl/open_onderwijsdata/voortgezet-onderwijs/examens/examens-vmbo-havo-vwo.jsp"
+    },
+    {
+     "label": "Inspectie ratings (Sept 2026)",
+     "url": "https://www.onderwijsinspectie.nl/documenten/2026/09/01/oordelen-1-september-2026"
+    }
+   ]
+  }
+ },
+ "skip": {
+  "aya-college": "new school, address not yet announced",
+  "kopklas-amsterdam": "runs at several locations"
+ },
+ "highlights_en": {
+  "Ambitie": "Ambition",
+  "Autonomie": "Autonomy",
+  "Betrokkenheid": "Engagement",
+  "Digitaal onderwijs": "Digital learning",
+  "Drie brugjaren": "Three-year bridge period",
+  "Kleine klassen (+/- 17 leerlingen)": "Small classes (about 17 pupils)",
+  "Extra aandacht rekenen/taal": "Extra attention for maths and language",
+  "Aandacht voor diversiteit": "Attention to diversity",
+  "Breed aanbod in muziek en sportlessen": "Wide range of music and sports lessons",
+  "Sfeervol en modern schoolgebouw": "Attractive, modern school building",
+  "Kleine klassen, grote aandacht": "Small classes, lots of attention",
+  "Persoonlijke coaching voor iedere leerling": "Personal coaching for every pupil",
+  "Sterk onderwijs en hoge verwachtingen": "Strong teaching and high expectations",
+  "Aandacht voor taal, rekenen en studievaardigheden": "Focus on language, maths and study skills",
+  "Veilig leren vanuit islamitische waarden": "Safe learning based on Islamic values",
+  "Bevlogen docenten": "Passionate teachers",
+  "Uitstekende resultaten": "Excellent results",
+  "Geweldige sfeer": "Great atmosphere",
+  "Laagdrempelig": "Approachable",
+  "Veel activiteiten en reizen": "Lots of activities and trips",
+  "Mavo, havo en vwo (atheneum en gymnasium)": "Mavo, havo and vwo (atheneum and gymnasium)",
+  "Tweetalig onderwijs": "Bilingual education",
+  "Unescoschool": "UNESCO school",
+  "Historisch gebouw, voorzien van moderne inrichting": "Historic building with modern facilities",
+  "My World Class - internationaal IB-onderwijs": "My World Class – international IB education",
+  "Kleine klassen": "Small classes",
+  "Talentklassen": "Talent classes",
+  "Persoonlijke aandacht": "Personal attention",
+  "Doorlopende leerlijn vmbo-mbo": "Continuous vmbo–mbo pathway",
+  "Meer dan alleen les": "More than just lessons",
+  "Flexibele driejarige brugperiode": "Flexible three-year bridge period",
+  "Een persoonlijke leerroute op maat": "A personal, tailored learning route",
+  "Kleine klassen, veel begeleiding, huiswerkklas": "Small classes, lots of guidance, homework class",
+  "Ook leren en ontdekken buiten school": "Learning and discovering outside school too",
+  "Je krijgt een diploma+": "You get a diploma+",
+  "Veel persoonlijke aandacht voor jou": "Lots of personal attention for you",
+  "Topsporttalentschool; (top)sport en onderwijs": "Top-sport talent school: sport and study combined",
+  "Eigen deel van gebouw en kantine voor de onderbouw": "Own wing and canteen for the lower years",
+  "Technasium: ontdekken, ontwerpen en creëren": "Technasium: discover, design and create",
+  "Ontdek jouw creativiteit in de Kunstklas": "Discover your creativity in the Art class",
+  "Goede, kleinschalige en mooie school": "Good, small-scale and attractive school",
+  "Veel persoonlijke begeleiding": "Lots of personal guidance",
+  "Diverse naschoolse activiteiten": "Various after-school activities",
+  "Vlakbij station Lelylaan": "Close to Lelylaan station",
+  "Gratis ontbijt en lunch": "Free breakfast and lunch",
+  "Kleinschalig": "Small-scale",
+  "Sport & Cultuur": "Sport & culture",
+  "Ambacht": "Craftsmanship",
+  "Een sociale, veilige school waar je iedereen kent": "A friendly, safe school where you know everyone",
+  "Koploper in ‘maatwerk’, keuze uit veel vakken": "Leader in tailored learning, many subjects to choose from",
+  "Goede uitleg en veel 1-op-1 begeleiding": "Clear explanations and lots of one-to-one support",
+  "Unieke ligging in de nieuwe Sportheldenbuurt": "Unique location in the new Sportheldenbuurt",
+  "Veel leuke buitenschoolse activiteiten": "Lots of fun extracurricular activities",
+  "Veel Joods onderwijs": "Lots of Jewish education",
+  "Veel individuele aandacht": "Lots of individual attention",
+  "PO en VO samen": "Primary and secondary together",
+  "Jongens en meisjes gescheiden": "Boys and girls taught separately",
+  "Kleinschaligheid/veiligheid van 2 gebouwen": "Small scale and safety of two buildings",
+  "Brede keuze uit D&P of Z&W": "Wide choice of D&P or Z&W tracks",
+  "Doorstroommogelijkheden hoger niveau": "Options to move up to a higher level",
+  "Groot aanbod naschoolse activiteiten": "Wide range of after-school activities",
+  "Doen en ontdekken": "Learning by doing and discovering",
+  "In het culturele hart van Amsterdam": "In the cultural heart of Amsterdam",
+  "Jouw leerroute op maat": "Your own tailored learning route",
+  "Een warme en positieve sfeer": "A warm and positive atmosphere",
+  "Bevlogen en betrokken docenten": "Passionate and committed teachers",
+  "Sterke basis voor de toekomst": "A strong foundation for the future",
+  "Fijne sfeer": "Pleasant atmosphere",
+  "Respectvol met elkaar omgaan": "Treating each other with respect",
+  "In het hart van Nieuw-West": "In the heart of Nieuw-West",
+  "Nieuw gebouw, veel licht": "New building, lots of light",
+  "Eigentijds onderwijs met diepgang en richting": "Modern education with depth and direction",
+  "Veilige leeromgeving met islamitische waarden": "Safe learning environment with Islamic values",
+  "Individuele begeleiding op maat voor elk kind!": "Tailored individual guidance for every child",
+  "Extra taal- en rekenonderwijs en NLT": "Extra language and maths lessons, plus NLT",
+  "Omgeving waarin elk kind telt en met plezier leert": "An environment where every child counts and enjoys learning",
+  "Betekenisvol onderwijs": "Meaningful education",
+  "Millenium Skills (projectonderwijs)": "Millennium skills (project-based learning)",
+  "Eigentijds en innovatief": "Modern and innovative",
+  "Vaardigheden voor de toekomst": "Skills for the future",
+  "Samenwerkend leren": "Collaborative learning",
+  "Levend Latijn": "Living Latin",
+  "Aanbod voor leerlingen die extra uitdaging willen": "Programme for pupils who want an extra challenge",
+  "Jezelf mogen zijn": "Free to be yourself",
+  "Extra curriculaire activiteiten": "Extracurricular activities",
+  "Wereldburgers en wetenschappers": "World citizens and scientists",
+  "Slimme lesmethodes": "Smart teaching methods",
+  "Moderne schoolbibliotheek": "Modern school library",
+  "Uitdagend technasium": "Challenging Technasium",
+  "Gratis huiswerkbegeleiding": "Free homework support",
+  "Nieuw schoolplein": "New schoolyard",
+  "Sociaal veilig": "Socially safe",
+  "Humanistisch, iedereen is welkom": "Humanist, everyone is welcome",
+  "Uitstekend docententeam": "Excellent teaching team",
+  "Burgerschapsschool": "Citizenship school",
+  "Kleine klassen met maximaal 18 leerlingen": "Small classes of at most 18 pupils",
+  "Extra ondersteuning": "Extra support",
+  "Vaste mentor en Begeleiders Inclusief Onderwijs": "Fixed mentor and inclusive-education support staff",
+  "Havo en vmbo-tl": "Havo and vmbo-tl",
+  "Didactische groepsplannen - zicht op de leerling": "Group teaching plans – a clear view of each pupil",
+  "Warme sfeer waarin de leerling wordt gezien": "Warm atmosphere where every pupil is seen",
+  "Brede brugklas": "Broad first-year class",
+  "Tijd om je eigen niveau te ontdekken": "Time to discover your own level",
+  "Veel aandacht voor: drama, muziek, arts en sport": "Lots of drama, music, arts and sport",
+  "Actief leren buiten het klaslokaal": "Active learning outside the classroom",
+  "Ontwikkeling van leerlingen stimuleren": "Encouraging pupils' development",
+  "Veilige omgeving en sterke individuele begeleiding": "Safe environment and strong individual guidance",
+  "Opbouw van een krachtige islamitische identiteit": "Building a strong Islamic identity",
+  "Sterke burgerschapsvisie met islamitische waarden": "Strong citizenship vision with Islamic values",
+  "Gedreven docenten die het verschil willen maken": "Driven teachers who want to make a difference",
+  "Sfeer: gezien worden en jezelf kunnen zijn": "Atmosphere: being seen and being yourself",
+  "Locatie: Prachtig gebouw in hartje Amsterdam": "Location: beautiful building in the heart of Amsterdam",
+  "Structuur: rust en duidelijkheid": "Structure: calm and clarity",
+  "Extra talentmodules, projectweken en activiteiten": "Extra talent modules, project weeks and activities",
+  "Begeleidingslessen, trajectvoorziening": "Guidance lessons and a support programme",
+  "Kleinschalig, veilig en gezellig": "Small-scale, safe and friendly",
+  "Goede begeleiding en ondersteuning": "Good guidance and support",
+  "Profielklassen": "Profile classes",
+  "Goede (digitale) voorzieningen": "Good (digital) facilities",
+  "Goede bereikbaarheid": "Easy to reach",
+  "Leren en inspireren": "Learning and inspiring",
+  "Hoofd, hart en handen": "Head, heart and hands",
+  "Periodeonderwijs": "Block-period teaching",
+  "Aandacht voor kunst en ambacht": "Attention to art and craft",
+  "Toekomstgericht vrijeschoolonderwijs": "Future-focused Steiner (vrije school) education",
+  "Je mag er zijn": "You are welcome as you are",
+  "Les in alle kunstvakken": "Lessons in all the arts",
+  "Kunst+ klassen": "Art+ classes",
+  "Goed onderwijs": "Good education",
+  "Fijne kleine school": "Pleasant small school",
+  "Korte lijntjes": "Short lines of communication",
+  "Meer aandacht": "More attention",
+  "Uniek talentenprogramma": "Unique talent programme",
+  "Veel diversiteit": "Lots of diversity",
+  "Persoonlijk, kleinschalig en begeleiding op maat": "Personal, small-scale, tailored guidance",
+  "Tweejarige brugperiode": "Two-year bridge period",
+  "Tweetalig onderwijs (TTO)": "Bilingual education (TTO)",
+  "Gymnasium": "Gymnasium (classical languages)",
+  "DigiTech": "DigiTech",
+  "Hoogstaand en uitdagend onderwijs": "High-level, challenging education",
+  "Ruimte voor talent": "Room for talent",
+  "Betrokken docenten": "Committed teachers",
+  "Iedereen kan zichzelf zijn": "Everyone can be themselves",
+  "Sterrenkunde, Film, Theater, Filosofie": "Astronomy, film, theatre, philosophy",
+  "Uitdagend vwo-onderwijs": "Challenging vwo education",
+  "Versterkt talenonderwijs met reizen": "Enhanced language teaching with trips",
+  "Mentorlessen in halve klassen": "Mentor lessons in half classes",
+  "Schoolclubs en buitenschoolse activiteiten": "School clubs and extracurricular activities",
+  "Eigen buitenhuis voor werkweken": "Own country house for field-trip weeks",
+  "Lessen van 90 minuten": "90-minute lessons",
+  "Veel aandacht voor wereldburgerschap": "Lots of attention to global citizenship",
+  "Ruimte voor maatwerk": "Room for tailored learning",
+  "Internationale uitwisselingen met Erasmus+": "International exchanges with Erasmus+",
+  "Extra aanbod op de Cartesiusmiddag": "Extra programme on the Cartesius afternoon",
+  "Kleinschalig, veilig en persoonlijk": "Small-scale, safe and personal",
+  "Werken vanuit vertrouwen": "Working from trust",
+  "Future Media in de onderbouw": "Future Media in the lower years",
+  "Grenzeloos leren (o.a. Erasmus+)": "Learning without borders (incl. Erasmus+)",
+  "Een eigen gebouw, voor onze eersteklassers": "A separate building for our first-years",
+  "Vakschool voor koken, bakken en serveren": "Vocational school for cooking, baking and serving",
+  "Eigen restaurants en Grand Café met échte gasten": "Own restaurants and Grand Café with real guests",
+  "Je leert traditioneel (ambachtelijk) vakmanschap": "You learn traditional craftsmanship",
+  "Extra keuze: tweetalig onderwijs bij vmbo kader": "Extra option: bilingual education in vmbo kader",
+  "Prima aansluiting op (versneld) mbo": "Good progression to (fast-track) mbo",
+  "Creatieve en ondernemende vmbo-school": "Creative and entrepreneurial vmbo school",
+  "Begeleiding en ondersteuning": "Guidance and support",
+  "Leren door te doen": "Learning by doing",
+  "HC-uren": "HC hours",
+  "Ons uitgangspunt is ‘Samen Durven Leren’": "Our motto is 'Daring to learn together'",
+  "Bijzondere Hyperionvakken": "Special Hyperion subjects",
+  "Veel aandacht voor exacte én creatieve vakken": "Lots of attention to science and creative subjects",
+  "Bureau V voor extra uitdaging": "Bureau V for extra challenge",
+  "Supermodern schoolgebouw op Overhoeks": "Ultra-modern school building at Overhoeks",
+  "Vmbo basis/kader/gemengde leerweg": "Vmbo basis/kader/mixed track",
+  "Versnelde mbo route (niveau 2)": "Fast-track mbo route (level 2)",
+  "Breed mentoraat onderbouw": "Broad mentoring in the lower years",
+  "Extra ondersteuning en begeleiding op maat": "Extra tailored support and guidance",
+  "Technasium op mavo, havo en vwo (praktisch vak)": "Technasium at mavo, havo and vwo (practical subject)",
+  "Internationalisering en Cambridge Engels": "Internationalisation and Cambridge English",
+  "Modern Gymnasium - klassieke talen en cultuur": "Modern gymnasium – classical languages and culture",
+  "Uitwisseling met andere scholen met Erasmus+": "Exchanges with other schools through Erasmus+",
+  "Fijne en warme, veilige sfeer": "Pleasant, warm and safe atmosphere",
+  "Leren van kunst": "Learning from art",
+  "Creatief en uniek": "Creative and unique",
+  "Profielklas Games, Design & Robotics": "Profile class Games, Design & Robotics",
+  "Montessorionderwijs": "Montessori education",
+  "Kleinschalig, warm en betrokken": "Small-scale, warm and committed",
+  "Leerlinggerichte begeleiding": "Pupil-centred guidance",
+  "Intensief mentoraat": "Intensive mentoring",
+  "Samenwerking met ouders en omgeving": "Working together with parents and the neighbourhood",
+  "Kleinschalige school waar iedereen elkaar kent": "Small school where everyone knows each other",
+  "Tijd om te groeien door een verlengde brugperiode": "Time to grow with an extended bridge period",
+  "Vertrouwen in leerlingen": "Trust in pupils",
+  "Geduldige docenten": "Patient teachers",
+  "Veilige leeromgeving": "Safe learning environment",
+  "Nauw contact met ouders": "Close contact with parents",
+  "Eigentijds Waldorfonderwijs": "Modern Waldorf education",
+  "Heterogene klassen: mavo, havo en vwo bij elkaar": "Mixed classes: mavo, havo and vwo together",
+  "Geen huiswerk en cijfers de eerste twee leerjaren": "No homework or grades in the first two years",
+  "Ruimte voor ambachts- en kunstvakken": "Room for craft and art subjects",
+  "Leren voor het leven": "Learning for life",
+  "Kleine klassen op niveau": "Small classes by level",
+  "Aanbod NGT en NmG": "NGT and NmG offered",
+  "Cognitieve- en praktijkvakken": "Academic and practical subjects",
+  "Interne en externe stages": "Internal and external work placements",
+  "Divers cultuuraanbod": "Diverse cultural programme",
+  "Een sportieve montessorischool": "A sporty Montessori school",
+  "Ondernemend onderwijs": "Entrepreneurial education",
+  "Een gezonde school": "A healthy school",
+  "Biologie in de tuin": "Biology in the garden",
+  "Huiswerk maken op school tijdens werktijd": "Homework done at school during school hours",
+  "Veilig en rustig": "Safe and calm",
+  "Veel praktijklessen, groot aanbod": "Lots of practical lessons, wide choice",
+  "Modern onderwijs": "Modern education",
+  "Goede samenwerking met ouders": "Good cooperation with parents",
+  "Talentontwikkeling": "Talent development",
+  "Uitgebreid ondersteuningsaanbod": "Extensive support programme",
+  "Kunst en cultuur": "Art and culture",
+  "Sport": "Sport",
+  "Positieve benadering": "Positive approach",
+  "Veilige omgeving": "Safe environment",
+  "Professioneel": "Professional",
+  "Maatwerk": "Tailored learning",
+  "Praktijkgericht": "Practice-oriented",
+  "Samenwerking met het ROC": "Cooperation with the ROC (vocational college)",
+  "Goed pedagogisch klimaat": "Good teaching climate",
+  "Breed kunst- en cultuuraanbod": "Wide arts and culture programme",
+  "Groot aanbod vaklessen": "Wide range of vocational lessons",
+  "Ouderbetrokkenheid": "Parent involvement",
+  "Cultuur Profiel School": "Culture Profile School",
+  "Plezier Professioneel Perspectief": "Fun, professional, prospects",
+  "Onderwijs op maat, geen 1 op 1 begeleiding": "Tailored teaching, no one-to-one guidance",
+  "Arbeidstoeleiding": "Preparation for work",
+  "Creativiteit en theater": "Creativity and theatre",
+  "Positief pedagogisch klimaat": "Positive teaching climate",
+  "Een gouden kans": "A golden opportunity",
+  "Groeien naar een passend advies": "Growing towards a fitting school advice",
+  "Goed in taal = sterker in ál je vakken": "Good at language = stronger in all your subjects",
+  "Vergroot je zelfvertrouwen": "Build your self-confidence",
+  "Vergroot je kennis van de wereld": "Broaden your knowledge of the world",
+  "Een kleinschalige, veilige en zorgzame school": "A small, safe and caring school",
+  "Uniek onderwijs met maatwerk en 1-op-1 begeleiding": "Unique tailored education with one-to-one guidance",
+  "Veel praktijk, je krijgt erkende certificaten": "Lots of practice, with recognised certificates",
+  "Drie uitstroomroutes, volop perspectief": "Three exit routes, plenty of prospects",
+  "Leuke vakken voor jouw persoonlijke ontwikkeling": "Fun subjects for your personal development",
+  "Persoonlijke coach: tweewekelijkse gesprekken": "Personal coach: a conversation every two weeks",
+  "Werken op de iPad": "Working on the iPad",
+  "Eigen Nestje met een vast docententeam": "Own 'nest' with a fixed teaching team",
+  "Prachtig schoolgebouw": "Beautiful school building",
+  "Kleine klassen in onderbouw": "Small classes in the lower years",
+  "Samen werken aan leerdoelen": "Working on learning goals together",
+  "Veel ondersteuning": "Lots of support",
+  "Warm en betrokken": "Warm and committed",
+  "Toekomstgericht": "Future-focused",
+  "Creatieve vakschool": "Creative vocational school",
+  "Ontwikkelingsgericht": "Development-oriented",
+  "Herstelgericht en inclusief": "Restorative and inclusive",
+  "Persoonlijke begeleiding": "Personal guidance",
+  "Community": "Community",
+  "Leerlingenraad": "Pupil council",
+  "Mogelijkheid behalen diploma, havo, vwo": "Possible to earn a havo or vwo diploma",
+  "Behandeling onder schooltijd én in school": "Treatment during school hours and at school",
+  "Specialistische Jeugdhulp in school": "Specialist youth care at school",
+  "Het vak wereldburgerschap in leerjaar 1": "Global citizenship as a subject in year 1",
+  "Innovatief leren": "Innovative learning",
+  "Eigentijds montessorionderwijs": "Modern Montessori education",
+  "Coderclass, Technasium, Kunst&Co.": "Coderclass, Technasium, Kunst&Co.",
+  "Binnen en buiten leren": "Learning indoors and outdoors",
+  "Innovatief daltononderwijs": "Innovative Dalton education",
+  "Onderwijs in periodes met geïntegreerde vakken": "Teaching in periods with integrated subjects",
+  "Midden in de wereld en Midden in de wetenschap": "In the middle of the world and in the middle of science",
+  "Periodes worden afgesloten met een MIX-week": "Each period ends with a MIX week",
+  "Prachtig nieuw schoolgebouw": "Beautiful new school building",
+  "Brede montessori cultuurprofielschool": "Broad Montessori culture-profile school",
+  "Onderbouw verdeeld in kleine deelscholen": "Lower years split into small sub-schools",
+  "Nieuwbouw met prachtige gymzalen": "New building with great gyms",
+  "Werken met boeken en schriften": "Working with books and exercise books",
+  "Veel keuzemomenten en activiteiten": "Lots of choices and activities",
+  "Montessori onderwijs": "Montessori education",
+  "Goede begeleiding": "Good guidance",
+  "Vertrouwensband tussen school en thuis": "Bond of trust between school and home",
+  "Structuur en zelfstandigheid": "Structure and independence",
+  "Brede keuzemogelijkheden": "Wide range of choices",
+  "Gemeenschap": "Community",
+  "Ontwikkelingsgericht leren": "Development-oriented learning",
+  "Autonomie en zelfsturing": "Autonomy and self-direction",
+  "Natuur leven en technologie": "Nature, life and technology",
+  "Tien montessori-uren": "Ten Montessori hours",
+  "UNESCO-doelen als uitgangspunt": "UNESCO goals as the starting point",
+  "De wereld is ons klaslokaal": "The world is our classroom",
+  "Ook in de brugklas: koken/techniek/salon": "Also in the first year: cooking, technology, salon",
+  "Talentontwikkeling: leer jezelf kennen": "Talent development: get to know yourself",
+  "Mundus & More: gratis naschoolse activiteiten": "Mundus & More: free after-school activities",
+  "Taalboost- & Kansklas": "Language boost and opportunity class",
+  "Wereldburger: leren in diversiteit": "World citizen: learning in diversity",
+  "Geen ouderbijdrage": "No parental contribution",
+  "Traumasensitief onderwijs": "Trauma-sensitive education",
+  "Gepersonaliseerd en thematisch onderwijs": "Personalised and thematic education",
+  "Breed ondersteunend aanbod": "Wide support programme",
+  "Persoonlijke benadering": "Personal approach",
+  "Eigenaarschap en betrokkenheid": "Ownership and engagement",
+  "Verantwoordelijkheid": "Responsibility",
+  "Respect": "Respect",
+  "Veiligheid": "Safety",
+  "Plezier": "Fun",
+  "Onderwijs op maat": "Tailored education",
+  "Praktijkgericht leren": "Practice-oriented learning",
+  "Verlengde schooldagen": "Extended school days",
+  "Kleine groepen": "Small groups",
+  "Praktijkleren, Ontwikkeling en Participatie": "Practical learning, development and participation",
+  "Trauma- en cultuursensitief schoolklimaat": "Trauma- and culture-sensitive school climate",
+  "Betekenisvol onderwijs: leren door te doen": "Meaningful education: learning by doing",
+  "Eigenaarschap en verantwoordelijkheid": "Ownership and responsibility",
+  "Brede brugklas; alle niveaus samen": "Broad first-year class: all levels together",
+  "Breed aanbod (cognitief en creatief)": "Wide range (academic and creative)",
+  "Toekomstgericht onderwijs": "Future-focused education",
+  "Versterkt mentoraat": "Enhanced mentoring",
+  "Eigen onderbouwkantine": "Own canteen for the lower years",
+  "Elke leerling wordt gezien": "Every pupil is seen",
+  "Kleinschalige school in Noord": "Small school in Noord",
+  "Profklas: onderzoeken, ontwikkelen, samenwerken": "Prof class: research, develop, collaborate",
+  "Sportklas: kennismaken met bijzondere sporten": "Sports class: try out unusual sports",
+  "Ruim aanbod extra begeleiding": "Plenty of extra support",
+  "Onderbouwprofielen: Sport, Tech, Art-Media, Roots": "Lower-year profiles: Sport, Tech, Art-Media, Roots",
+  "Havo - Vwo - Vwo-plus - Gymnasium": "Havo – vwo – vwo-plus – gymnasium",
+  "Een tweejarige brugklas: meer tijd om te kiezen!": "A two-year first-year class: more time to choose!",
+  "Helder: leuke, goede en gestructureerde lessen": "Clear: fun, good and well-structured lessons",
+  "Afwisselend: veel extra activiteiten en projecten": "Varied: lots of extra activities and projects",
+  "Muziekplus voor alle niveaus": "Music-plus for all levels",
+  "Volwaardig Gymnasium": "Full gymnasium",
+  "Internationalisering via uitwisselingsprojecten": "Internationalisation through exchange projects",
+  "Bèta & Science programma, D&P praktijkvak (mavo)": "Science programme, D&P practical subject (mavo)",
+  "Daltononderwijs": "Dalton education",
+  "Dalton": "Dalton",
+  "Dakpanklassen in de onderbouw": "Mixed-level classes in the lower years",
+  "Gemeenschapsvorming": "Building a community",
+  "Persoonlijke Ontwikkeling": "Personal development",
+  "Coaching": "Coaching",
+  "Leerpleinen met alle niveaus": "Learning squares with all levels",
+  "Onderwijs vanuit leerdoelen": "Teaching based on learning goals",
+  "Kleine school met veel persoonlijke begeleiding": "Small school with lots of personal guidance",
+  "Dynamisch leren": "Dynamic learning",
+  "Socialisatie, subjectificatie en kwalificatie": "Socialisation, personal growth and qualification",
+  "Samenwerken en samen leren": "Working and learning together",
+  "70 minutenrooster": "70-minute timetable",
+  "Verschillen mogen er zijn": "Differences are welcome",
+  "Ieder jaar een excursie": "A school trip every year",
+  "Open en licht gebouw": "Open, light building",
+  "Vertrouwen, verantwoordelijkheid en verbondenheid": "Trust, responsibility and connection",
+  "Ambitieus": "Ambitious",
+  "Al meer dan 75 jaar betrouwbaar onderwijs": "Reliable education for more than 75 years",
+  "Blik op de wereld en toekomstgericht": "Outward-looking and future-focused",
+  "Kies jij voor tweetalig onderwijs?": "Will you choose bilingual education?",
+  "Plezier, ontdekken staan centraal": "Fun and discovery come first",
+  "Examen op eigen niveau": "Exams at your own level",
+  "Veel samenwerken met bedrijven": "Lots of collaboration with businesses",
+  "Doorlopende leerlijn met mbo": "Continuous pathway to mbo",
+  "Een kleine en overzichtelijke vrijeschool": "A small, well-organised vrije school",
+  "Kinderen worden wie ze zijn": "Children become who they are",
+  "Werken met hoofd, hart en handen": "Working with head, heart and hands",
+  "Periode-onderwijs met veel aandacht voor ambacht": "Period teaching with lots of attention to craft",
+  "Kleine klassen, veel ondersteuning (KOVO)": "Small classes, lots of support (KOVO)",
+  "Al jarenlang uitstekende resultaten": "Excellent results for many years",
+  "Stromenonderwijs (Vechtstede Focus) in klas 1 en 2": "Stream-based teaching (Vechtstede Focus) in years 1 and 2",
+  "Tweetalig vwo": "Bilingual vwo",
+  "Mooi mobielvrij gebouw, moderne faciliteiten": "Beautiful phone-free building, modern facilities",
+  "Gevarieerd cultuuraanbod én een leesuur in rooster": "Varied cultural programme and a reading hour in the timetable",
+  "Individuele aandacht": "Individual attention",
+  "Expertise TOS/SH": "Expertise in DLD and hearing impairment",
+  "Logopedische begeleiding": "Speech therapy support",
+  "Gemengde klassen (m/h/v)": "Mixed classes (mavo/havo/vwo)",
+  "Kunst en wetenschap": "Art and science",
+  "Differentiatie": "Differentiated teaching",
+  "Met laptop en ICT-middelen": "With laptops and ICT tools",
+  "Praktijkvakken": "Practical subjects",
+  "Ondersteunende vakken": "Support subjects",
+  "Kleinschalig met een fijne leeromgeving": "Small-scale with a pleasant learning environment",
+  "Enthousiast docententeam": "Enthusiastic teaching team",
+  "Modulair onderwijs: minder toetsen, meer ervaren": "Modular teaching: fewer tests, more experience",
+  "Onderdeel van de Amsterdamse Familieschool": "Part of the Amsterdamse Familieschool",
+  "Nauwe samenwerking met ouders": "Close cooperation with parents",
+  "Inspirerende en bevlogen docenten": "Inspiring and passionate teachers",
+  "Gezellige sfeer": "Friendly atmosphere",
+  "Groot aanbod van vakken en activiteiten": "Wide range of subjects and activities",
+  "Ondersteunen, verdiepen en excelleren": "Support, deepen and excel",
+  "Goede begeleiding van leerlingen": "Good pupil guidance",
+  "Gepersonaliseerde leerroutes": "Personalised learning routes",
+  "Leren vanuit eigen interesses": "Learning from your own interests",
+  "Werken met challenges": "Working with challenges",
+  "Samen met anderen leren": "Learning together with others",
+  "Geen onderscheid in niveaus": "No separation by level",
+  "Voor vmbo basis, kader en gl/tl": "For vmbo basis, kader and gl/tl",
+  "Kleine school, iedereen kent elkaar": "Small school, everyone knows each other",
+  "Naast theorie ook veel praktijk": "Lots of practice as well as theory",
+  "Extra hulp en gratis bijles": "Extra help and free tutoring",
+  "Naschoolse activiteiten": "After-school activities",
+  "Een kleine en warme school in de Watergraafsmeer": "A small, warm school in the Watergraafsmeer",
+  "Vmbo b/k & pro, na de brugklas advies leerroute": "Vmbo b/k & pro, learning-route advice after the first year",
+  "Kamp, activiteitenweken en naschoolse activiteiten": "Camp, activity weeks and after-school activities",
+  "Waar jij ertoe doet en ontdekt wat je leuk vindt": "Where you matter and discover what you enjoy",
+  "Een nieuw schoolgebouw met mooi buitenterrein": "A new school building with lovely grounds"
+ }
+}

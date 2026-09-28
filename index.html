@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Amsterdam School Map</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="schools.js"></script>
+  <style>
+    :root { --bg: #fafaf8; --fg: #1d1d1b; --muted: #6b6b66; --line: #e4e2dc; --accent: #c8102e; --good: #2e7d32; --bad: #b3261e; }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; height: 100%; font: 14px/1.45 system-ui, sans-serif; background: var(--bg); color: var(--fg); }
+    header { position: absolute; top: 12px; left: 56px; right: 12px; z-index: 1000; display: flex; gap: 8px; flex-wrap: wrap; align-items: center; pointer-events: none; }
+    header > * { pointer-events: auto; }
+    h1 { margin: 0; font-size: 1rem; background: #fff; padding: 6px 12px; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,.2); }
+    input, select { font: inherit; padding: 6px 10px; border: 1px solid var(--line); border-radius: 6px; background: #fff; box-shadow: 0 1px 4px rgba(0,0,0,.2); }
+    #search { flex: 0 1 200px; min-width: 0; }
+    @media (max-width: 600px) {
+      header { flex-wrap: nowrap; }
+      h1 { display: none; }
+      #search { flex: 1 1 0; }
+      #level { flex: 0 1 auto; min-width: 0; max-width: 130px; }
+    }
+    #map { height: 100%; }
+
+    /* The little card that opens from a pin */
+    .leaflet-popup-content { margin: 0; width: 280px !important; }
+    .leaflet-popup-content-wrapper { padding: 0; overflow: hidden; border-radius: 10px; }
+    .card-img { width: 100%; height: 130px; object-fit: cover; display: block; background: var(--line); }
+    .card-img.fallback { display: flex; align-items: center; justify-content: center; font-size: 2rem; font-weight: 700; color: #fff; background: var(--accent); }
+    .card-body { padding: 10px 12px 12px; }
+    .card-body h2 { margin: 0 0 2px; font-size: 1rem; }
+    .meta { color: var(--muted); font-size: 12px; }
+    .levels span { display: inline-block; font-size: 11px; padding: 0 6px; border-radius: 4px; background: var(--line); margin: 4px 4px 0 0; }
+    .dates { margin: 8px 0 0; padding: 0; list-style: none; font-size: 12px; }
+    .dates li { padding: 3px 0; border-top: 1px solid var(--line); }
+    .dates li.past { color: var(--muted); text-decoration: line-through; }
+    .signup { display: block; color: var(--muted); font-size: 11px; }
+    .tba { margin: 8px 0 0; font-size: 12px; font-style: italic; color: var(--muted); }
+    details { margin-top: 8px; font-size: 12px; }
+    summary { cursor: pointer; color: var(--accent); }
+    details h3 { margin: 6px 0 0; font-size: 12px; }
+    details ul { margin: 2px 0; padding-left: 16px; }
+    .good li::marker { content: "+ "; color: var(--good); }
+    .bad li::marker { content: "− "; color: var(--bad); }
+    .sources, .credit { font-size: 11px; color: var(--muted); margin-top: 6px; }
+    a { color: var(--accent); }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Middelbare scholen Amsterdam</h1>
+    <input id="search" type="search" placeholder="Search school…">
+    <select id="level">
+      <option value="">All levels</option>
+      <option>VMBO</option><option>HAVO</option><option>VWO</option>
+      <option value="Praktijk">Praktijkonderwijs</option>
+      <option value="VSO">Special needs (VSO)</option>
+    </select>
+  </header>
+  <div id="map"></div>
+  <script>
+    const map = L.map("map").setView([52.355, 4.9], 12);
+    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      attribution: "&copy; OpenStreetMap contributors | School data: schoolkeuze020.nl, DUO, Inspectie van het Onderwijs"
+        + (window.LAST_CHECKED ? ` | Dates checked ${new Date(window.LAST_CHECKED + "T12:00").toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" })}` : "")
+    }).addTo(map);
+    const pins = L.layerGroup().addTo(map);
+    const today = new Date().toISOString().slice(0, 10);
+
+    const esc = s => String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+    const items = arr => arr.map(i => `<li>${esc(i)}</li>`).join("");
+    const initials = name => name.split(/\s+/).filter(w => /^[A-Z]/.test(w)).slice(0, 2).map(w => w[0]).join("");
+    const fmtDate = iso => new Date(iso + "T12:00").toLocaleDateString("en-GB", { weekday: "short", day: "numeric", month: "short", year: "numeric" });
+    const section = (title, cls, arr) => arr.length ? `<h3>${title}</h3><ul class="${cls}">${items(arr)}</ul>` : "";
+
+    function card(s) {
+      const fallback = `<div class="card-img fallback">${esc(initials(s.name))}</div>`;
+      const img = s.image
+        ? `<img class="card-img" src="${esc(s.image)}" alt="${esc(s.name)}" loading="lazy" onerror="this.outerHTML='${fallback.replace(/"/g, "&quot;")}'">`
+        : fallback;
+      const dates = s.open_days.length
+        ? `<ul class="dates">${s.open_days.map(d => `<li class="${d.date < today ? "past" : ""}"><strong>${esc(d.type)}</strong> · ${fmtDate(d.date)}${d.time ? ` · ${esc(d.time)}` : ""}${d.signup ? `<span class="signup">${esc(d.signup)}</span>` : ""}</li>`).join("")}</ul>
+           <div class="meta"><a href="${esc(s.dates_url)}" target="_blank">Details on the school's website</a></div>`
+        : `<p class="tba">Dates yet to be announced</p>`;
+      const facts = [s.pupils && `${s.pupils} pupils`, s.lesson_length && `lessons ${s.lesson_length}`, s.start_time && `starts ${s.start_time}`].filter(Boolean);
+      return `${img}
+        <div class="card-body">
+          <h2>${esc(s.name)}</h2>
+          <div class="meta">${esc(s.address)} · ${esc(s.area)} · <a href="${esc(s.website)}" target="_blank">website</a></div>
+          <div class="levels">${s.levels.map(l => `<span>${esc(l)}</span>`).join("")}</div>
+          ${dates}
+          <details><summary>Good &amp; less good</summary>
+            ${section("Good", "good", s.pros)}
+            ${section("Watch out", "bad", s.cons)}
+            ${section("Also good to know", "", [...s.facts, ...facts])}
+            ${section("The school says", "", s.highlights)}
+            <div class="sources">Sources: ${s.sources.map(x => `<a href="${esc(x.url)}" target="_blank">${esc(x.label)}</a>`).join(", ")}</div>
+          </details>
+          <div class="credit">Photo: ${esc(s.image_credit)}</div>
+        </div>`;
+    }
+
+    function render() {
+      const q = document.getElementById("search").value.toLowerCase();
+      const lvl = document.getElementById("level").value;
+      pins.clearLayers();
+      window.SCHOOLS
+        .filter(s => s.name.toLowerCase().includes(q) && (!lvl || s.groups.includes(lvl)))
+        .forEach(s => L.marker([s.lat, s.lng], { title: s.name }).bindPopup(card(s), { maxWidth: 280, minWidth: 280, maxHeight: 420, autoPanPaddingTopLeft: [20, 70] }).addTo(pins));
+    }
+
+    document.getElementById("search").oninput = render;
+    document.getElementById("level").onchange = render;
+    render();
+  </script>
+</body>
+</html>
