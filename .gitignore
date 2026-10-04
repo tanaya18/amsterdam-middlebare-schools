@@ -1,0 +1,6 @@
+# Keep private notes and settings out of the public repository
+CLAUDE.md
+.claude/
+__pycache__/
+.pytest_cache/
+.DS_Store
