@@ -42,12 +42,12 @@ def parse_school(slug, page):
     s["opendays_url"] = first(r'class="school-top">.*?<a href="([^"]+)"')
     usps = first(r'class="school-usps">(.*?)</ul>')
     s["usps"] = [clean(x) for x in re.findall(r"<li>(.*?)</li>", usps or "", re.S)]
-    for label, body in re.findall(r"<strong>(.*?)</strong>\s*<p>(.*?)</p>", page, re.S):
+    for label, body in re.findall(r'class="school-detail"><strong>(.*?)</strong>\s*<p>(.*?)</p>', page, re.S):
         s[clean(label)] = clean(body)
     s["days"] = []
-    for item in re.findall(r'<div class="school-item">(.*?)</div>\s*</div>\s*(?=<div class="school-item">|</div>)', page, re.S):
+    for item in re.findall(r'<li class="school-item"[^>]*>(.*?)</li>', page, re.S):
         get = lambda cls: clean(m.group(1)) if (m := re.search(cls + r'[^"]*">(.*?)(?:</div>|$)', item, re.S)) else ""
-        dm = re.match(r"(\d{1,2}) (\w+) (\d{4})$", get("school-date"))
+        dm = re.match(r"(?:\w+ )?(\d{1,2}) (\w+) (\d{4})$", get("school-date"))
         if not dm or dm.group(2) not in MONTHS:
             raise ValueError(f"{slug}: unreadable date {get('school-date')!r}")
         s["days"].append({"date": f"{dm.group(3)}-{MONTHS[dm.group(2)]:02d}-{int(dm.group(1)):02d}",
@@ -140,7 +140,9 @@ def build(static, pages, last_images):
         untranslated = [u for u in s["usps"] if u not in static["highlights_en"]]
         if untranslated:
             warnings.append(f"{s['name']}: highlights shown in Dutch (no translation yet): {untranslated}")
-        levels = [{"kleinschalig ondersteunend onderwijs (kovo)": "kovo"}.get(l.strip(), l.strip()) for l in s["Schoolsoorten"].split(",")]
+        # VSO schools no longer list "Schoolsoorten" on their page; their type shows up under "Extra ondersteuning" instead.
+        soorten = s.get("Schoolsoorten", s.get("Extra ondersteuning", ""))
+        levels = [{"kleinschalig ondersteunend onderwijs (kovo)": "kovo"}.get(l.strip(), l.strip()) for l in soorten.split(",")]
         days = [{"type": label(d["info"]), "date": d["date"], "time": fmt_time(d["time"]),
                  **({"signup": signup(d["info"])} if signup(d["info"]) else {})} for d in s["days"]]
         out.append({
@@ -168,7 +170,7 @@ def build(static, pages, last_images):
 
 def main():
     static = json.loads((HERE / "data/static.json").read_text(encoding="utf-8"))
-    slugs = sorted(set(re.findall(rf"{BASE}/scholen/([a-z0-9-]+)/", fetch(f"{BASE}/scholen/"))) - {"feed", "page"})
+    slugs = sorted(set(re.findall(r"/scholen/([a-z0-9-]+)/", fetch(f"{BASE}/scholen/"))) - {"feed", "page"})
     pages = {}
     for slug in slugs:
         pages[slug] = fetch(f"{BASE}/scholen/{slug}/")
